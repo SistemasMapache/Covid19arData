@@ -8,11 +8,8 @@ La informacion se completa en un google drive y se exporta en formato CSV en est
 También se esta tweetboteando en @Covid19arData. 
 
 ### Accesos
-* Tweetbot: 
-https://twitter.com/Covid19arData 
-
-* Google Drive Data:
-https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing
+* Tweetbot: https://twitter.com/Covid19arData 
+* Google Drive Data: https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing
 
 
 ### Fuentes
