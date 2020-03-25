@@ -1,0 +1,3445 @@
+fecha,dia_inicio,dia_cuarentena_dnu260,osm_admin_level_2,osm_admin_level_4,osm_admin_level_8,territorio_geojson,tot_casosconf,tot_nue_casosconf_diff,tot_casosconf_DGRate,tot_muertos,tot_nue_muertos_diff,transmision_tipo,informe_tipo,informe_link,observacion
+05-03-2020,1,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",1,,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/5-03-2020-nuevo-coronavirus-covid-19-reporte-diario_1.pdf,
+06-03-2020,2,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",2,1,"2,00",0,0,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/6-03-2020-nuevo-coronavirus-covid-19-reporte-diario_1.pdf,
+08-03-2020,3,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",12,10,"6,00",0,0,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/8-03-2020-nuevo-coronavirus-covid-19-reporte-diario_0.pdf,
+09-03-2020,4,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",17,5,"1,42",1,1,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/9-03-2020-nuevo-coronavirus-covid-19-reporte_diario_0.pdf,
+10-03-2020,5,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",19,2,"1,12",1,0,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/10-03-2020-nuevo-coronavirus-covid-19-reporte-diario_1.pdf,
+11-03-2020,6,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",21,2,"1,11",1,0,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/11-03-2020-nuevo-coronavirus-covid-19-reporte-diario_0.pdf,
+12-03-2020,7,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",31,10,"1,48",1,0,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/12-03-20-nuevo-coronavirus-covid-19_reporte-diario_0.pdf,
+13-03-2020,8,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",34,3,"1,10",2,1,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/13-03-20-reporte-diario-covid-19_0.pdf,
+14-03-2020,9,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",45,11,"1,32",2,0,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/14-03-20-reporte-diario-covid-19_0.pdf,Si bien separa por provincias no aclara cantidades por provincia.
+15-03-2020,10,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",56,11,"1,24",2,1,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/15032020-nuevo-coronavirus-covid-19_0.pdf,
+15-03-2020,10,,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,6,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/15032020-nuevo-coronavirus-covid-19_0.pdf,
+15-03-2020,10,,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,2,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/15032020-nuevo-coronavirus-covid-19_0.pdf,
+15-03-2020,10,,Argentina,Tierra Del Fuego,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Tierra Del Fuego"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -68.631591796875,
+              -55.07207755373826
+            ],
+            [
+              -65.050048828125,
+              -55.07207755373826
+            ],
+            [
+              -65.050048828125,
+              -52.62972886718355
+            ],
+            [
+              -68.631591796875,
+              -52.62972886718355
+            ],
+            [
+              -68.631591796875,
+              -55.07207755373826
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,2,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/15032020-nuevo-coronavirus-covid-19_0.pdf,
+15-03-2020,10,,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/15032020-nuevo-coronavirus-covid-19_0.pdf,
+16-03-2020,11,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",65,9,"1,16",2,2,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/16-03-20-reporte-diario-covid-19_0.pdf,
+16-03-2020,11,,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,5,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/16-03-20-reporte-diario-covid-19_0.pdf,
+16-03-2020,11,,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,3,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/16-03-20-reporte-diario-covid-19_0.pdf,
+16-03-2020,11,,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/16-03-20-reporte-diario-covid-19_0.pdf,
+17-03-2020,12,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",78,13,"1,20",2,2,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+17-03-2020,12,,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+17-03-2020,12,,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,4,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+17-03-2020,12,,Argentina,Cordoba,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,2,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+17-03-2020,12,,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+17-03-2020,12,,Argentina,Jujuy,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Jujuy"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -67.24731445312499,
+              -24.647017162630352
+            ],
+            [
+              -64.13818359375,
+              -24.647017162630352
+            ],
+            [
+              -64.13818359375,
+              -21.79010705980786
+            ],
+            [
+              -67.24731445312499,
+              -21.79010705980786
+            ],
+            [
+              -67.24731445312499,
+              -24.647017162630352
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+17-03-2020,12,,Argentina,Salta,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Salta"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -68.5546875,
+              -26.31311263768267
+            ],
+            [
+              -62.42431640625,
+              -26.31311263768267
+            ],
+            [
+              -62.42431640625,
+              -22.004174972901993
+            ],
+            [
+              -68.5546875,
+              -22.004174972901993
+            ],
+            [
+              -68.5546875,
+              -26.31311263768267
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+17-03-2020,12,,Argentina,Rio Negro,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Rio Negro"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -71.982421875,
+              -41.98399427093562
+            ],
+            [
+              -62.666015625,
+              -41.98399427093562
+            ],
+            [
+              -62.666015625,
+              -37.52715361723378
+            ],
+            [
+              -71.982421875,
+              -37.52715361723378
+            ],
+            [
+              -71.982421875,
+              -41.98399427093562
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+17-03-2020,12,,Argentina,Entre Rios,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Entre Rios"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -60.809326171875,
+              -34.079962308658736
+            ],
+            [
+              -57.755126953125,
+              -34.079962308658736
+            ],
+            [
+              -57.755126953125,
+              -30.164126343161087
+            ],
+            [
+              -60.809326171875,
+              -30.164126343161087
+            ],
+            [
+              -60.809326171875,
+              -34.079962308658736
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+17-03-2020,12,,Argentina,Santa Cruz,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Cruz"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.58642578125,
+              -52.44261787120723
+            ],
+            [
+              -65.63232421875,
+              -52.44261787120723
+            ],
+            [
+              -65.63232421875,
+              -45.96642454131025
+            ],
+            [
+              -73.58642578125,
+              -45.96642454131025
+            ],
+            [
+              -73.58642578125,
+              -52.44261787120723
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/17-03-20_reporte_diario_covid-19.pdf,
+18-03-2020,13,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",97,19,"1,24",2,0,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,
+18-03-2020,13,,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,10,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,
+18-03-2020,13,,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,
+18-03-2020,13,,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,6,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,
+18-03-2020,13,,Argentina,Cordoba,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,
+18-03-2020,13,,Argentina,Entre Rios,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Entre Rios"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -60.809326171875,
+              -34.079962308658736
+            ],
+            [
+              -57.755126953125,
+              -34.079962308658736
+            ],
+            [
+              -57.755126953125,
+              -30.164126343161087
+            ],
+            [
+              -60.809326171875,
+              -30.164126343161087
+            ],
+            [
+              -60.809326171875,
+              -34.079962308658736
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/18-03-20_reporte_diario_covid-19_1.pdf,
+19-03-2020,14,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",128,31,"1,32",3,1,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,Reporte Diario Nacional. Totales.
+19-03-2020,14,,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,15,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,
+19-03-2020,14,,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,8,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,
+19-03-2020,14,,Argentina,Cordoba,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,3,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,
+19-03-2020,14,,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,2,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,
+19-03-2020,14,,Argentina,Tucuman,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      """"properties"": {
+        ""nombre"": ""Provincia de Tucuman"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -68.57666015625,
+              -28.883159609323485
+            ],
+            [
+              -64.434814453125,
+              -28.883159609323485
+            ],
+            [
+              -64.434814453125,
+              -25.135339016130978
+            ],
+            [
+              -68.57666015625,
+              -25.135339016130978
+            ],
+            [
+              -68.57666015625,
+              -28.883159609323485
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,
+19-03-2020,14,,Argentina,Santa Fe,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -62.90771484375,
+              -34.37971258046219
+            ],
+            [
+              -58.84277343749999,
+              -34.37971258046219
+            ],
+            [
+              -58.84277343749999,
+              -27.994401411046148
+            ],
+            [
+              -62.90771484375,
+              -27.994401411046148
+            ],
+            [
+              -62.90771484375,
+              -34.37971258046219
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,
+19-03-2020,14,,Argentina,Rio Negro,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Rio Negro"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -71.982421875,
+              -41.98399427093562
+            ],
+            [
+              -62.666015625,
+              -41.98399427093562
+            ],
+            [
+              -62.666015625,
+              -37.52715361723378
+            ],
+            [
+              -71.982421875,
+              -37.52715361723378
+            ],
+            [
+              -71.982421875,
+              -41.98399427093562
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/19-03-20-reporte-diario-covid-19.pdf,
+20-03-2020,15,,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",158,30,"1,23",3,0,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,Reporte Diario Nacional. Totales.
+20-03-2020,15,,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,9,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,
+20-03-2020,15,,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,9,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,
+20-03-2020,15,,Argentina,Cordoba,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,5,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,
+20-03-2020,15,,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,
+20-03-2020,15,,Argentina,Tierra Del Fuego,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Tierra Del Fuego"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -68.631591796875,
+              -55.07207755373826
+            ],
+            [
+              -65.050048828125,
+              -55.07207755373826
+            ],
+            [
+              -65.050048828125,
+              -52.62972886718355
+            ],
+            [
+              -68.631591796875,
+              -52.62972886718355
+            ],
+            [
+              -68.631591796875,
+              -55.07207755373826
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,
+20-03-2020,15,,Argentina,Entre Rios,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Entre Rios"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -60.809326171875,
+              -34.079962308658736
+            ],
+            [
+              -57.755126953125,
+              -34.079962308658736
+            ],
+            [
+              -57.755126953125,
+              -30.164126343161087
+            ],
+            [
+              -60.809326171875,
+              -30.164126343161087
+            ],
+            [
+              -60.809326171875,
+              -34.079962308658736
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,
+20-03-2020,15,,Argentina,Corrientes,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Corrientes"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -59.688720703125,
+              -30.751277776257812
+            ],
+            [
+              -55.645751953125,
+              -30.751277776257812
+            ],
+            [
+              -55.645751953125,
+              -27.303451991034542
+            ],
+            [
+              -59.688720703125,
+              -27.303451991034542
+            ],
+            [
+              -59.688720703125,
+              -30.751277776257812
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,
+20-03-2020,15,,Argentina,Neuquen,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Neuquen"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -72.21313476562499,
+              -41.294317263152564
+            ],
+            [
+              -67.840576171875,
+              -41.294317263152564
+            ],
+            [
+              -67.840576171875,
+              -36.13787471840727
+            ],
+            [
+              -72.21313476562499,
+              -36.13787471840727
+            ],
+            [
+              -72.21313476562499,
+              -41.294317263152564
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,2,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,
+20-03-2020,15,,Argentina,Santiago Del Estero,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santiago Del Estero"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -65.19287109375,
+              -30.467614102257855
+            ],
+            [
+              -61.69921875,
+              -30.467614102257855
+            ],
+            [
+              -61.69921875,
+              -25.631621577258482
+            ],
+            [
+              -65.19287109375,
+              -25.631621577258482
+            ],
+            [
+              -65.19287109375,
+              -30.467614102257855
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,importado,informe nacional,https://www.argentina.gob.ar/sites/default/files/20-03-20_reporte_diario_covid_19_2.pdf,
+21-03-2020,16,1,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",225,67,"1,42",4,1,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,Reporte Diario Nacional. Totales.
+21-03-2020,16,1,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,29,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+21-03-2020,16,1,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,15,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+21-03-2020,16,1,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,5,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+21-03-2020,16,1,Argentina,Mendoza,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Mendoza"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -70.6201171875,
+              -37.61423141542417
+            ],
+            [
+              -66.51123046875,
+              -37.61423141542417
+            ],
+            [
+              -66.51123046875,
+              -32.026706293336126
+            ],
+            [
+              -70.6201171875,
+              -32.026706293336126
+            ],
+            [
+              -70.6201171875,
+              -37.61423141542417
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,5,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+21-03-2020,16,1,Argentina,Cordoba,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,4,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+21-03-2020,16,1,Argentina,Tierra Del Fuego,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Tierra Del Fuego"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -68.631591796875,
+              -55.07207755373826
+            ],
+            [
+              -65.050048828125,
+              -55.07207755373826
+            ],
+            [
+              -65.050048828125,
+              -52.62972886718355
+            ],
+            [
+              -68.631591796875,
+              -52.62972886718355
+            ],
+            [
+              -68.631591796875,
+              -55.07207755373826
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,3,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+21-03-2020,16,1,Argentina,Corrientes,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Corrientes"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -59.688720703125,
+              -30.751277776257812
+            ],
+            [
+              -55.645751953125,
+              -30.751277776257812
+            ],
+            [
+              -55.645751953125,
+              -27.303451991034542
+            ],
+            [
+              -59.688720703125,
+              -27.303451991034542
+            ],
+            [
+              -59.688720703125,
+              -30.751277776257812
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,2,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+21-03-2020,16,1,Argentina,Santa Fe,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -62.90771484375,
+              -34.37971258046219
+            ],
+            [
+              -58.84277343749999,
+              -34.37971258046219
+            ],
+            [
+              -58.84277343749999,
+              -27.994401411046148
+            ],
+            [
+              -62.90771484375,
+              -27.994401411046148
+            ],
+            [
+              -62.90771484375,
+              -34.37971258046219
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,2,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+21-03-2020,16,1,Argentina,Tucuman,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      """"properties"": {
+        ""nombre"": ""Provincia de Tucuman"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -68.57666015625,
+              -28.883159609323485
+            ],
+            [
+              -64.434814453125,
+              -28.883159609323485
+            ],
+            [
+              -64.434814453125,
+              -25.135339016130978
+            ],
+            [
+              -68.57666015625,
+              -25.135339016130978
+            ],
+            [
+              -68.57666015625,
+              -28.883159609323485
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+21-03-2020,16,1,Argentina,Rio Negro,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Rio Negro"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -71.982421875,
+              -41.98399427093562
+            ],
+            [
+              -62.666015625,
+              -41.98399427093562
+            ],
+            [
+              -62.666015625,
+              -37.52715361723378
+            ],
+            [
+              -71.982421875,
+              -37.52715361723378
+            ],
+            [
+              -71.982421875,
+              -41.98399427093562
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/21-03-20-reporte-diario_covid19.pdf,
+22-03-2020,17,2,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",265,40,"1,18",4,0,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,Reporte Diario Nacional. Totales. Se encontraba uno duplicado. se quito de CABA
+22-03-2020,17,2,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,11,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,
+22-03-2020,17,2,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,8,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,
+22-03-2020,17,2,Argentina,Cordoba,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,8,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,
+22-03-2020,17,2,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,7,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,
+22-03-2020,17,2,Argentina,Tucuman,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      """"properties"": {
+        ""nombre"": ""Provincia de Tucuman"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -68.57666015625,
+              -28.883159609323485
+            ],
+            [
+              -64.434814453125,
+              -28.883159609323485
+            ],
+            [
+              -64.434814453125,
+              -25.135339016130978
+            ],
+            [
+              -68.57666015625,
+              -25.135339016130978
+            ],
+            [
+              -68.57666015625,
+              -28.883159609323485
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,5,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,
+22-03-2020,17,2,Argentina,Misiones,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Misiones"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -56.0906982421875,
+              -28.207608595327365
+            ],
+            [
+              -53.624267578125,
+              -28.207608595327365
+            ],
+            [
+              -53.624267578125,
+              -25.48790982559232
+            ],
+            [
+              -56.0906982421875,
+              -25.48790982559232
+            ],
+            [
+              -56.0906982421875,
+              -28.207608595327365
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision local,informe nacional,https://www.argentina.gob.ar/sites/default/files/22-03-20-reporte-diario_covid19.pdf,
+23-03-2020,18,3,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",303,38,"1,14",4,0,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,Reporte Diario Nacional. Totales. reclasificación de un caso que se encontraba duplicado el dia de ayer. Parte Santa Fe suma 2 casos mas. Se tienen en cuenta.
+23-03-2020,18,3,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,11,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,
+23-03-2020,18,3,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,5,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,
+23-03-2020,18,3,Argentina,Santa Fe,Helvecia,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Helvecia""
+        ""admin_level"": 8
+      },
+      ""geometry"": {
+        ""type"": ""Point"",
+        ""coordinates"": [
+          -60.0833,
+          -31.1000
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.
+23-03-2020,18,3,Argentina,Santa Fe,Ciudad de Santa Fe,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Santa Fe"",
+        ""admin_level"": 8
+      },
+      ""geometry"": {
+        ""type"": ""Point"",
+        ""coordinates"": [
+          -60.69723129272461,
+          -31.6222516167638
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.
+23-03-2020,18,3,Argentina,Santa Fe,Esperanza,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Esperanza"",
+        ""admin_level"": 8
+      },
+      ""geometry"": {
+        ""type"": ""Point"",
+        ""coordinates"": [
+          -60.9512872,
+          -31.4444352
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.
+23-03-2020,18,3,Argentina,Santa Fe,Rosario,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Rosario"",
+        ""admin_level"": 8
+      },
+      ""geometry"": {
+        ""type"": ""Point"",
+        ""coordinates"": [
+          -60.660152435302734,
+          -32.959849860621595
+        ]
+      }
+    }
+  ]
+}",,8,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.
+23-03-2020,18,3,Argentina,Santa Fe,Galvez,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Galvez"",
+        ""admin_level"": 8
+      },
+      ""geometry"": {
+        ""type"": ""Point"",
+        ""coordinates"": [
+          -61.2244182,-32.0288628
+        ]
+      }
+    }
+  ]
+}",,3,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.
+23-03-2020,18,3,Argentina,Santa Fe,Rafaela,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Rafaela"",
+        ""admin_level"": 8
+      },
+      ""geometry"": {
+        ""type"": ""Point"",
+        ""coordinates"": [
+          -61.5228025,-31.2547522
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257616/1357149/file/Parte%20MSSF%20Coronavirus%2023-03-2020%2018hs.pdf,Santa Fe Parte Provincial suma15 casos. Parte Nacional reporta solo 13.
+23-03-2020,18,3,Argentina,Cordoba,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,3,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,
+23-03-2020,18,3,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,4,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/23-03-2020-covid19_informe-diario.pdf,
+24-03-2020,19,4,Argentina,,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Argentina"",
+        ""admin_level_: 2
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.4154357571,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -55.25
+            ],
+            [
+              -53.628348965,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -21.8323104794
+            ],
+            [
+              -73.4154357571,
+              -55.25
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",391,88,"1,29",6,2,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,Reporte Diario Nacional. Totales. Se sumaron los casos del parte diario Santa Fe que son 5 en lugar de 3.
+24-03-2020,19,4,Argentina,CABA,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Ciudad de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.7063401319401
+            ],
+            [
+              -58.33499908447265,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.532581106490944
+            ],
+            [
+              -58.53343963623047,
+              -34.7063401319401
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,30,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,
+24-03-2020,19,4,Argentina,Buenos Aires,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Buenos Aires"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -41.11246878918086
+            ],
+            [
+              -56.53564453125,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -33.21111647241684
+            ],
+            [
+              -63.5009765625,
+              -41.11246878918086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,30,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,
+24-03-2020,19,4,Argentina,Chaco,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Chaco"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -28.004101830368654
+            ],
+            [
+              -58.33740234375,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -24.116674961751293
+            ],
+            [
+              -63.47900390625,
+              -28.004101830368654
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,9,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,
+24-03-2020,19,4,Argentina,Cordoba,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Fe"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -35.04798673426733
+            ],
+            [
+              -61.74316406249999,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -29.401319510041485
+            ],
+            [
+              -65.8740234375,
+              -35.04798673426733
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,7,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,
+24-03-2020,19,4,Argentina,Tierra Del Fuego,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Tierra Del Fuego"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -68.631591796875,
+              -55.07207755373826
+            ],
+            [
+              -65.050048828125,
+              -55.07207755373826
+            ],
+            [
+              -65.050048828125,
+              -52.62972886718355
+            ],
+            [
+              -68.631591796875,
+              -52.62972886718355
+            ],
+            [
+              -68.631591796875,
+              -55.07207755373826
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,4,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,
+24-03-2020,19,4,Argentina,Santa Fe,Helvecia,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Helvecia""
+        ""admin_level"": 8
+      },
+      ""geometry"": {
+        ""type"": ""Point"",
+        ""coordinates"": [
+          -60.0833,
+          -31.1000
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257621/1357167/file/Informe_Coronavirus_24_03_2020%2021%20hs.pdf,Santa Fe Parte Provincial suma 5 casos. Parte Nacional reporta solo 3.
+24-03-2020,19,4,Argentina,Santa Fe,Rafaela,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Rafaela"",
+        ""admin_level"": 8
+      },
+      ""geometry"": {
+        ""type"": ""Point"",
+        ""coordinates"": [
+          -61.5228025,-31.2547522
+        ]
+      }
+    }
+  ]
+}",,2,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257621/1357167/file/Informe_Coronavirus_24_03_2020%2021%20hs.pdf,Santa Fe Parte Provincial suma 5 casos. Parte Nacional reporta solo 3.
+24-03-2020,19,4,Argentina,Santa Fe,Roldan,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Helvecia""
+        ""admin_level"": 8
+      },
+      ""geometry"": {
+        ""type"": ""Point"",
+        ""coordinates"": [
+          -60.0833,
+          -31.1000
+        ]
+      }
+    }
+  ]
+}",,2,,,,transmision comunitaria,informe provincial,https://www.santafe.gob.ar/index.php/web/content/download/257621/1357167/file/Informe_Coronavirus_24_03_2020%2021%20hs.pdf,Santa Fe Parte Provincial suma 5 casos. Parte Nacional reporta solo 3.
+24-03-2020,19,4,Argentina,La Pampa,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de La Pampa"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -68.280029296875,
+              -39.35978526869
+            ],
+            [
+              -63.369140625,
+              -39.35978526869
+            ],
+            [
+              -63.369140625,
+              -34.99400375757576
+            ],
+            [
+              -68.280029296875,
+              -34.99400375757576
+            ],
+            [
+              -68.280029296875,
+              -39.35978526869
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,
+24-03-2020,19,4,Argentina,Neuquen,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Neuquen"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -72.21313476562499,
+              -41.294317263152564
+            ],
+            [
+              -67.840576171875,
+              -41.294317263152564
+            ],
+            [
+              -67.840576171875,
+              -36.13787471840727
+            ],
+            [
+              -72.21313476562499,
+              -36.13787471840727
+            ],
+            [
+              -72.21313476562499,
+              -41.294317263152564
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,
+24-03-2020,19,4,Argentina,Santa Cruz,,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {
+        ""nombre"": ""Provincia de Santa Cruz"",
+        ""admin_level"": 4
+      },
+      ""geometry"": {
+        ""type"": ""Polygon"",
+        ""coordinates"": [
+          [
+            [
+              -73.58642578125,
+              -52.44261787120723
+            ],
+            [
+              -65.63232421875,
+              -52.44261787120723
+            ],
+            [
+              -65.63232421875,
+              -45.96642454131025
+            ],
+            [
+              -73.58642578125,
+              -45.96642454131025
+            ],
+            [
+              -73.58642578125,
+              -52.44261787120723
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}",,1,,,,transmision comunitaria,informe nacional,https://www.argentina.gob.ar/sites/default/files/24-03-20-reporte-diario-vespertino-covid-19_0.pdf,
