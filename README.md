@@ -49,3 +49,5 @@ Leandro Stryjek
 Andres Snitcofsky @rusosnith
 
 Telegram channel Usuaries de datos Argentina @daterxsargentina
+
+Toda sugerencia es bienvenida! escriban por Issues o manden tw a @vlasvlasvlas, @damcast
