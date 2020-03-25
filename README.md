@@ -20,6 +20,8 @@ https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsE
 * Parte diario Santa Fe: https://www.santafe.gob.ar/index.php/web/content/view/full/234420/
 * Parte diario BsAs: https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico
 * Parte diario GCBA: https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires
+* Partes diarios videos oficiales Casa Rosada: https://www.youtube.com/user/casarosada/videos
+
 
 ### Descripción de columnas de la tabla
 * fecha : fecha a la que corresponde los datos.
