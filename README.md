@@ -50,4 +50,4 @@ Andres Snitcofsky @rusosnith
 
 Telegram channel Usuaries de datos Argentina @daterxsargentina
 
-Toda sugerencia es bienvenida! escriban por Issues o manden tw a @vlasvlasvlas, @damcast
+Toda sugerencia es bienvenida! Tenés nuevas fuentes de partes diarios provinciales? Escriban por Issues o manden tw a @vlasvlasvlas, @damcast
