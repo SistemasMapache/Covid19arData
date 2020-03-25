@@ -21,6 +21,22 @@ https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsE
 * Parte diario BsAs: https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico
 * Parte diario GCBA: https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires
 
+### Descripción de columnas de la tabla
+* fecha : fecha a la que corresponde los datos.
+* dia_inicio : cant dias desde el inicio del caso 1.
+* dia_cuarentena_dnu260: cant dias desde la cuarentena por DNU 260.
+* osm_admin_level_2: nombre administrativo en OpenStreetMap escala país.
+* osm_admin_level_4: nombre administrativo en OpenStreetMap escala provincia.
+* osm_admin_level_8: nombre administrativo en OpenStreetMap escala ciudad.
+* tot_casosconf: total de casos de infectados confirmados.
+* nue_casosconf_diff: nuevos casos infectados del dia.
+* casosconf_DGRate: Daily growth rate de nuevos casos. Esto es TotalCasosDiaActual / TotalCasosDiaAnterior
+* tot_fallecidos: total de fallecidos.
+* nue_fallecidos_diff: nuevos casos fallecidos del dia.
+* transmision_tipo: tipo de transmision al dia de la fecha.
+* informe_link: url de acceso al informe de donde sale el dato.
+* observacion: observaciones relacionadas al dato. Se sumó porque encontramos diferencias entre cantidades informadas en partes diarios provinciales vs partes diarios nacionales.
+
 
 ### Ayudan en esto
 
