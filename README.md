@@ -14,6 +14,14 @@ https://twitter.com/Covid19arData
 * Google Drive Data:
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing
 
+
+### Fuentes
+* Parte diario Nacional: https://www.argentina.gob.ar/coronavirus/informe-diario
+* Parte diario Santa Fe: https://www.santafe.gob.ar/index.php/web/content/view/full/234420/
+* Parte diario BsAs: https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico
+* Parte diario GCBA: https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires
+
+
 ### Ayudan en esto
 
 Vladimiro Bellini @vlasvlasvlas
