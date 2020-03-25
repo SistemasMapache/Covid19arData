@@ -14,10 +14,14 @@ https://twitter.com/Covid19arData
 * Google Drive Data:
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing
 
-### Contactos
+### Ayudan en esto
 
 Vladimiro Bellini @vlasvlasvlas
 
 Damián Castiñeiras @damcast
 
 Leandro Stryjek
+
+Andres Snitcofsky @rusosnith
+
+Telegram channel Usuaries de datos Argentina @daterxsargentina
