@@ -29,7 +29,7 @@ También se esta tweetboteando en @Covid19arData.
 * osm_admin_level_8: nombre administrativo en OpenStreetMap escala ciudad.
 * tot_casosconf: total de casos de infectados confirmados.
 * nue_casosconf_diff: nuevos casos infectados del dia.
-* casosconf_DGRate: Daily growth rate de nuevos casos. Esto es TotalCasosDiaActual / TotalCasosDiaAnterior
+* casosconf_DGRate: Daily growth rate / Ratio de incremento de casos diarios (DGR,RIC). Esto es TotalCasosDiaActual / TotalCasosDiaAnterior
 * tot_fallecidos: total de fallecidos.
 * nue_fallecidos_diff: nuevos casos fallecidos del dia.
 * transmision_tipo: tipo de transmision al dia de la fecha.
