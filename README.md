@@ -17,7 +17,7 @@ También se esta tweetboteando en @Covid19arData.
 * Parte diario Santa Fe: https://www.santafe.gob.ar/index.php/web/content/view/full/234420/
 * Parte diario BsAs: https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico
 * Parte diario GCBA: https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires
-* Parte diario Rio Negro: https://salud.rionegro.gov.ar/sala/ (Gracias Nadia Perez Laureda!)
+* Parte diario Rio Negro: https://salud.rionegro.gov.ar/sala/ 
 * Partes diarios videos oficiales Casa Rosada: https://www.youtube.com/user/casarosada/videos
 
 
@@ -49,5 +49,7 @@ Leandro Stryjek
 Andres Snitcofsky @rusosnith
 
 Telegram channel Usuaries de datos Argentina @daterxsargentina
+
+Nadia Perez Laureda
 
 Toda sugerencia es bienvenida! Tenés nuevas fuentes de partes diarios provinciales? Escriban por Issues o manden tw a @vlasvlasvlas, @damcast
