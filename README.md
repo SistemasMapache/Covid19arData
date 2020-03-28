@@ -19,6 +19,10 @@ También se esta tweetboteando en @Covid19arData.
 * Parte diario BsAs: https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico
 * Parte diario GCBA: https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires
 * Parte diario Rio Negro: https://salud.rionegro.gov.ar/sala/ 
+* Parte diario Misiones: https://coronavirus.misionesonline.net/
+* Parte diario San Luis: http://www.sanluis.gov.ar/coronavirus/
+* Parte diario Rio Negro: https://www.rionegro.gov.ar/?contID=58359
+
 * Partes diarios videos oficiales Casa Rosada: https://www.youtube.com/user/casarosada/videos
 * Chequeo extra: Wiki Pandemia de enfermedad por coronavirus 2020 Argentina: https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Argentina
 * Tabla de datos diarios de Jorge Aliaga @jorgeluisaliaga: https://docs.google.com/spreadsheets/d/1M7uDgWSfy6z1MNbC9FP6jTNgvY7XchJ0m-BfW88SKtQ/edit#gid=0
