@@ -22,6 +22,11 @@ También se esta tweetboteando en @Covid19arData.
 * Parte diario Misiones: https://coronavirus.misionesonline.net/
 * Parte diario San Luis: http://www.sanluis.gov.ar/coronavirus/
 * Parte diario Rio Negro: https://www.rionegro.gov.ar/?contID=58359
+* Parte diario Corrientes: https://www.corrientes.gob.ar/home/salud/categorias
+* Parte diario Neuquen: https://www.saludneuquen.gob.ar/
+* Parte diario Chaco: http://comunicacion.chaco.gov.ar/lista-noticias/328
+* Parte diario Tierra del fuego: https://www.facebook.com/saludtdf
+* Parte diario Mendoza: http://www.salud.mendoza.gov.ar/, http://www.prensa.mendoza.gov.ar/salud/
 
 * Partes diarios videos oficiales Casa Rosada: https://www.youtube.com/user/casarosada/videos
 * Chequeo extra: Wiki Pandemia de enfermedad por coronavirus 2020 Argentina: https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Argentina
