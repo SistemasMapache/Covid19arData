@@ -18,10 +18,9 @@ También se esta tweetboteando en @Covid19arData.
 * Parte diario Santa Fe: https://www.santafe.gob.ar/index.php/web/content/view/full/234420/
 * Parte diario BsAs: https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico
 * Parte diario GCBA: https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires
-* Parte diario Rio Negro: https://salud.rionegro.gov.ar/sala/ 
+* Parte diario Rio Negro: https://salud.rionegro.gov.ar/sala/, https://www.rionegro.gov.ar/?buscar&temas=144&catView=3
 * Parte diario Misiones: https://coronavirus.misionesonline.net/
 * Parte diario San Luis: http://www.sanluis.gov.ar/coronavirus/
-* Parte diario Rio Negro: https://www.rionegro.gov.ar/?contID=58359
 * Parte diario Corrientes: https://www.corrientes.gob.ar/home/salud/categorias
 * Parte diario Neuquen: https://www.saludneuquen.gob.ar/
 * Parte diario Chaco: http://comunicacion.chaco.gov.ar/lista-noticias/328
