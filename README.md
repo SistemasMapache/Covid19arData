@@ -8,10 +8,12 @@ La informacion se completa en un google drive y se exporta en formato CSV en est
 También se esta tweetboteando en @Covid19arData. 
 
 ### Accesos
-* Tweetbot: https://twitter.com/Covid19arData 
-* Google Drive Data: https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing
+* **Google Drive Data: https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing**
+
 * Data histórica en CSV: https://raw.githubusercontent.com/SistemasMapache/Covid19arData/master/CSV/Covid19arData%20-%20historico.csv
 * Data histórica en XLS: https://github.com/SistemasMapache/Covid19arData/raw/master/XLS/Covid19arData%20-%20historico.xlsx
+
+* Tweetbot: https://twitter.com/Covid19arData 
 
 ### Fuentes
 * Parte diario Nacional: https://www.argentina.gob.ar/coronavirus/informe-diario
