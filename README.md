@@ -29,6 +29,8 @@ También se esta tweetboteando en @Covid19arData.
 * Parte diario Tierra del fuego: https://www.facebook.com/saludtdf
 * Parte diario Mendoza: http://www.salud.mendoza.gov.ar/, http://www.prensa.mendoza.gov.ar/salud/
 * Parte diario Cordoba (difusion): https://www.lavoz.com.ar/temas/coronavirus-en-cordoba, https://cdn.lavoz.com.ar/sites/default/files/file_attachments/nota_periodistica/PARA_PRENSA_-_29.03.2020_Informe_EPIDEMIOLOGICO_casos_confirmados.pdf
+* Parte diario Entre Rios: http://www.entrerios.gov.ar/msalud/#/ms-1/3
+
 * Partes diarios videos oficiales Casa Rosada: https://www.youtube.com/user/casarosada/videos
 * Chequeo extra: Wiki Pandemia de enfermedad por coronavirus 2020 Argentina: https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Argentina
 * Tabla de datos diarios de Jorge Aliaga @jorgeluisaliaga: https://docs.google.com/spreadsheets/d/1M7uDgWSfy6z1MNbC9FP6jTNgvY7XchJ0m-BfW88SKtQ/edit#gid=0
