@@ -1,0 +1,174 @@
+fecha,osm_admin_level_2,osm_admin_level_4,SUM de nue_casosconf_diff,SUM de nue_fallecidos_diff,SUM de tot_recuperados,SUM de tot_test_negativos,SUM de tot_test
+,,,0,0,0,0,0
+2/03/2020,Argentina,CABA,1,0,0,0,0
+3/03/2020,Argentina,Indeterminado,0,0,0,0,0
+4/03/2020,Argentina,Indeterminado,0,0,0,0,0
+5/03/2020,Argentina,Buenos Aires,1,0,0,0,0
+6/03/2020,Argentina,Indeterminado,0,0,0,0,0
+7/03/2020,Argentina,Indeterminado,0,0,0,0,0
+8/03/2020,Argentina,Buenos Aires,10,0,0,0,0
+9/03/2020,Argentina,CABA,1,1,0,0,0
+9/03/2020,Argentina,Chaco,2,0,0,0,0
+9/03/2020,Argentina,Río Negro,1,0,0,0,0
+9/03/2020,Argentina,San Luis,1,0,0,0,0
+10/03/2020,Argentina,Buenos Aires,1,0,0,0,0
+10/03/2020,Argentina,CABA,1,0,0,0,0
+11/03/2020,Argentina,Buenos Aires,1,0,0,0,0
+11/03/2020,Argentina,CABA,1,0,0,0,0
+12/03/2020,Argentina,Indeterminado,10,0,0,0,0
+13/03/2020,Argentina,Buenos Aires,1,0,0,0,0
+13/03/2020,Argentina,CABA,2,1,0,0,0
+14/03/2020,Argentina,Indeterminado,11,0,0,0,0
+15/03/2020,Argentina,Buenos Aires,1,0,0,0,0
+15/03/2020,Argentina,CABA,6,0,0,0,0
+15/03/2020,Argentina,Chaco,2,0,0,0,0
+15/03/2020,Argentina,Tierra Del Fuego,2,0,0,0,0
+16/03/2020,Argentina,Buenos Aires,1,0,0,0,0
+16/03/2020,Argentina,CABA,5,0,0,0,0
+16/03/2020,Argentina,Chaco,3,0,0,0,0
+17/03/2020,Argentina,Buenos Aires,1,0,0,0,0
+17/03/2020,Argentina,CABA,4,0,0,0,0
+17/03/2020,Argentina,Chaco,1,0,0,0,0
+17/03/2020,Argentina,Córdoba,2,0,0,0,0
+17/03/2020,Argentina,Entre Ríos,1,0,0,0,0
+17/03/2020,Argentina,Jujuy,1,0,0,0,0
+17/03/2020,Argentina,Río Negro,1,0,0,0,0
+17/03/2020,Argentina,Salta,1,0,0,0,0
+17/03/2020,Argentina,Santa Cruz,1,0,0,0,0
+18/03/2020,Argentina,Buenos Aires,6,0,0,0,0
+18/03/2020,Argentina,CABA,10,0,0,0,0
+18/03/2020,Argentina,Chaco,1,0,0,0,0
+18/03/2020,Argentina,Córdoba,1,0,0,0,0
+18/03/2020,Argentina,Entre Ríos,1,0,0,0,0
+19/03/2020,Argentina,Buenos Aires,15,0,0,0,0
+19/03/2020,Argentina,CABA,8,1,0,0,0
+19/03/2020,Argentina,Chaco,2,0,0,0,0
+19/03/2020,Argentina,Córdoba,3,0,0,0,0
+19/03/2020,Argentina,Río Negro,1,0,0,0,0
+19/03/2020,Argentina,Santa Fe,1,0,0,0,0
+19/03/2020,Argentina,Tucumán,1,0,0,0,0
+20/03/2020,Argentina,Buenos Aires,9,0,0,0,0
+20/03/2020,Argentina,CABA,9,0,0,0,0
+20/03/2020,Argentina,Chaco,1,0,0,0,0
+20/03/2020,Argentina,Córdoba,5,0,0,0,0
+20/03/2020,Argentina,Corrientes,1,0,0,0,0
+20/03/2020,Argentina,Entre Ríos,1,0,0,0,0
+20/03/2020,Argentina,Neuquén,2,0,0,0,0
+20/03/2020,Argentina,Santiago Del Estero,1,0,0,0,0
+20/03/2020,Argentina,Tierra Del Fuego,1,0,0,0,0
+21/03/2020,Argentina,Buenos Aires,15,1,0,0,0
+21/03/2020,Argentina,CABA,29,0,0,0,0
+21/03/2020,Argentina,Chaco,5,0,0,0,0
+21/03/2020,Argentina,Córdoba,4,0,0,0,0
+21/03/2020,Argentina,Corrientes,2,0,0,0,0
+21/03/2020,Argentina,Mendoza,5,0,0,0,0
+21/03/2020,Argentina,Río Negro,1,0,0,0,0
+21/03/2020,Argentina,Santa Fe,2,0,0,0,0
+21/03/2020,Argentina,Tierra Del Fuego,3,0,0,0,0
+21/03/2020,Argentina,Tucumán,1,0,0,0,0
+22/03/2020,Argentina,Buenos Aires,8,0,0,0,0
+22/03/2020,Argentina,CABA,11,0,0,0,0
+22/03/2020,Argentina,Chaco,7,0,0,0,0
+22/03/2020,Argentina,Córdoba,8,0,0,0,0
+22/03/2020,Argentina,Misiones,1,0,0,0,0
+22/03/2020,Argentina,Tucumán,5,0,0,0,0
+23/03/2020,Argentina,Buenos Aires,5,0,0,0,0
+23/03/2020,Argentina,CABA,11,0,0,0,0
+23/03/2020,Argentina,Chaco,4,0,0,0,0
+23/03/2020,Argentina,Córdoba,3,0,0,0,0
+23/03/2020,Argentina,Santa Fe,13,0,0,0,0
+24/03/2020,Argentina,Buenos Aires,29,1,0,0,0
+24/03/2020,Argentina,CABA,29,0,0,0,0
+24/03/2020,Argentina,Chaco,9,1,0,0,0
+24/03/2020,Argentina,Córdoba,7,0,0,0,0
+24/03/2020,Argentina,La Pampa,1,0,0,0,0
+24/03/2020,Argentina,Neuquén,1,0,0,0,0
+24/03/2020,Argentina,Santa Cruz,1,0,0,0,0
+24/03/2020,Argentina,Santa Fe,3,0,0,0,0
+24/03/2020,Argentina,Tierra Del Fuego,4,0,0,0,0
+25/03/2020,Argentina,Buenos Aires,30,0,0,0,0
+25/03/2020,Argentina,CABA,21,1,0,0,0
+25/03/2020,Argentina,Chaco,12,1,0,0,0
+25/03/2020,Argentina,Córdoba,15,0,0,0,0
+25/03/2020,Argentina,Entre Ríos,3,0,0,0,0
+25/03/2020,Argentina,Mendoza,1,0,0,0,0
+25/03/2020,Argentina,Neuquén,1,0,0,0,0
+25/03/2020,Argentina,San Luis,4,0,0,0,0
+25/03/2020,Argentina,Santa Cruz,5,0,0,0,0
+25/03/2020,Argentina,Santa Fe,22,0,0,0,0
+25/03/2020,Argentina,Tierra del Fuego,1,0,0,0,0
+25/03/2020,Argentina,Tucumán,2,0,0,0,0
+26/03/2020,Argentina,Buenos Aires,27,2,0,0,0
+26/03/2020,Argentina,CABA,30,1,0,0,0
+26/03/2020,Argentina,Chaco,3,1,0,0,0
+26/03/2020,Argentina,Córdoba,3,0,0,0,0
+26/03/2020,Argentina,Jujuy,2,0,0,0,0
+26/03/2020,Argentina,Mendoza,1,0,0,0,0
+26/03/2020,Argentina,Neuquén,3,0,0,0,0
+26/03/2020,Argentina,San Luis,0,0,0,0,0
+26/03/2020,Argentina,Santa Cruz,2,0,0,0,0
+26/03/2020,Argentina,Santa Fe,12,0,0,0,0
+26/03/2020,Argentina,Tierra del Fuego,3,0,0,0,0
+27/03/2020,Argentina,Buenos Aires,36,0,0,0,0
+27/03/2020,Argentina,CABA,43,1,0,0,0
+27/03/2020,Argentina,Chaco,3,0,0,0,0
+27/03/2020,Argentina,Córdoba,5,0,0,0,0
+27/03/2020,Argentina,Corrientes,2,0,0,0,0
+27/03/2020,Argentina,Entre Ríos,3,0,0,0,0
+27/03/2020,Argentina,Indeterminado,-16,1,0,0,0
+27/03/2020,Argentina,Mendoza,1,1,0,0,0
+27/03/2020,Argentina,Misiones,1,0,0,0,0
+27/03/2020,Argentina,Neuquén,4,1,0,0,0
+27/03/2020,Argentina,Río Negro,3,1,0,0,0
+27/03/2020,Argentina,Santa Fe,9,0,0,0,0
+27/03/2020,Argentina,Santiago del Estero,1,0,0,0,0
+27/03/2020,Argentina,Tucumán,6,0,0,0,0
+28/03/2020,Argentina,Buenos Aires,8,1,0,0,0
+28/03/2020,Argentina,CABA,18,1,0,0,0
+28/03/2020,Argentina,Chaco,5,0,0,0,0
+28/03/2020,Argentina,Córdoba,1,0,0,0,0
+28/03/2020,Argentina,Corrientes,4,0,0,0,0
+28/03/2020,Argentina,Indeterminado,0,0,91,3215,3960
+28/03/2020,Argentina,Mendoza,1,0,0,0,0
+28/03/2020,Argentina,Neuquén,2,0,0,0,0
+28/03/2020,Argentina,Santa Fe,13,0,0,0,0
+28/03/2020,Argentina,Tierra del Fuego,4,0,0,0,0
+29/03/2020,Argentina,Buenos Aires,16,0,0,0,0
+29/03/2020,Argentina,CABA,13,0,0,0,0
+29/03/2020,Argentina,Chaco,4,0,0,0,0
+29/03/2020,Argentina,Córdoba,18,0,0,0,0
+29/03/2020,Argentina,Corrientes,1,0,0,0,0
+29/03/2020,Argentina,Indeterminado,0,0,228,3580,4400
+29/03/2020,Argentina,La Pampa,2,0,0,0,0
+29/03/2020,Argentina,La Rioja,1,0,0,0,0
+29/03/2020,Argentina,Mendoza,1,0,0,0,0
+29/03/2020,Argentina,Misiones,1,0,0,0,0
+29/03/2020,Argentina,San Juan,1,0,0,0,0
+29/03/2020,Argentina,Santa Fe,13,0,0,0,0
+29/03/2020,Argentina,Tierra del Fuego,4,0,0,0,0
+29/03/2020,Argentina,Tucumán,0,1,0,0,0
+30/03/2020,Argentina,Buenos Aires,36,2,0,0,0
+30/03/2020,Argentina,CABA,34,0,0,0,0
+30/03/2020,Argentina,Chaco,12,0,0,0,0
+30/03/2020,Argentina,Córdoba,8,0,0,0,0
+30/03/2020,Argentina,Corrientes,10,0,0,0,0
+30/03/2020,Argentina,Entre Ríos,3,0,0,0,0
+30/03/2020,Argentina,Indeterminado,0,0,240,4065,5031
+30/03/2020,Argentina,Mendoza,3,0,0,0,0
+30/03/2020,Argentina,Neuquén,8,1,0,0,0
+30/03/2020,Argentina,Santa Fe,21,0,0,0,0
+30/03/2020,Argentina,Tierra del Fuego,11,0,0,0,0
+30/03/2020,Argentina,Tucumán,0,1,0,0,0
+31/03/2020,Argentina,Buenos Aires,17,0,0,0,0
+31/03/2020,Argentina,CABA,19,0,0,0,0
+31/03/2020,Argentina,Chaco,3,1,0,0,0
+31/03/2020,Argentina,Córdoba,14,1,0,0,0
+31/03/2020,Argentina,Corrientes,1,0,0,0,0
+31/03/2020,Argentina,Indeterminado,0,1,0,0,0
+31/03/2020,Argentina,La Rioja,0,1,0,0,0
+31/03/2020,Argentina,Mendoza,2,0,0,0,0
+31/03/2020,Argentina,Misiones,1,0,0,0,0
+31/03/2020,Argentina,Río Negro,1,0,0,0,0
+31/03/2020,Argentina,Santa Fe,22,0,0,0,0
+31/03/2020,Argentina,Tierra del Fuego,7,0,0,0,0
+31/03/2020,Argentina,Tucumán,1,0,0,0,0
