@@ -35,6 +35,8 @@ También se esta tweetboteando en @Covid19arData.
 * Chequeo extra: Wiki Pandemia de enfermedad por coronavirus 2020 Argentina: https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Argentina
 * Tabla de datos diarios de Jorge Aliaga @jorgeluisaliaga: https://docs.google.com/spreadsheets/d/1M7uDgWSfy6z1MNbC9FP6jTNgvY7XchJ0m-BfW88SKtQ/edit#gid=0
 
+* Visualización de mapa y avance de casos de Ezequiel Fernandez: https://covid19argentina.com/
+
 
 ### Descripción de columnas de la tabla
 * fecha : fecha a la que corresponde los datos.
@@ -47,6 +49,9 @@ También se esta tweetboteando en @Covid19arData.
 * nue_casosconf_diff: nuevos casos infectados del dia.
 * tot_fallecidos: total de fallecidos. Columna que sumariza fila a fila el total de fallecidos.
 * nue_fallecidos_diff: nuevos casos fallecidos del dia.
+* tot_recuperados: total acumulado de casos recuperados.
+* tot_test_negativos: total acumulado de tests negativos.
+* tot_test: total acumulado de tests.
 * transmision_tipo: tipo de transmision al dia de la fecha.
 * informe_link: url de acceso al informe de donde sale el dato.
 * observacion: observaciones relacionadas al dato. Se sumó porque encontramos diferencias entre cantidades informadas en partes diarios provinciales vs partes diarios nacionales.
@@ -65,5 +70,7 @@ Andres Snitcofsky @rusosnith
 Telegram channel Usuaries de datos Argentina @daterxsargentina
 
 Nadia Perez Laureda
+
+Ezequiel Fernandez (http://ezequielfernandez.com/)
 
 Toda sugerencia es bienvenida! Tenés nuevas fuentes de partes diarios provinciales? Escriban por Issues o manden tw a @vlasvlasvlas, @damcast
