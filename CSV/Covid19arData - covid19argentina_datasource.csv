@@ -26,12 +26,14 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 16/03/2020,Argentina,buenos-aires,1,0,0,0,0
 16/03/2020,Argentina,capital-federal,5,0,0,0,0
 16/03/2020,Argentina,chaco,3,0,0,0,0
+16/03/2020,Argentina,no-data,0,0,0,464,529
 17/03/2020,Argentina,buenos-aires,1,0,0,0,0
 17/03/2020,Argentina,capital-federal,4,0,0,0,0
 17/03/2020,Argentina,chaco,1,0,0,0,0
 17/03/2020,Argentina,cordoba,2,0,0,0,0
 17/03/2020,Argentina,entre-rios,1,0,0,0,0
 17/03/2020,Argentina,jujuy,1,0,0,0,0
+17/03/2020,Argentina,no-data,0,0,0,496,574
 17/03/2020,Argentina,rio-negro,1,0,0,0,0
 17/03/2020,Argentina,salta,1,0,0,0,0
 17/03/2020,Argentina,santa-cruz,1,0,0,0,0
@@ -40,10 +42,12 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 18/03/2020,Argentina,chaco,1,0,0,0,0
 18/03/2020,Argentina,cordoba,1,0,0,0,0
 18/03/2020,Argentina,entre-rios,1,0,0,0,0
+18/03/2020,Argentina,no-data,0,0,18,562,659
 19/03/2020,Argentina,buenos-aires,15,0,0,0,0
 19/03/2020,Argentina,capital-federal,8,1,0,0,0
 19/03/2020,Argentina,chaco,2,0,0,0,0
 19/03/2020,Argentina,cordoba,3,0,0,0,0
+19/03/2020,Argentina,no-data,0,0,23,705,833
 19/03/2020,Argentina,rio-negro,1,0,0,0,0
 19/03/2020,Argentina,santa-fe,1,0,0,0,0
 19/03/2020,Argentina,tucuman,1,0,0,0,0
@@ -54,6 +58,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 20/03/2020,Argentina,corrientes,1,0,0,0,0
 20/03/2020,Argentina,entre-rios,1,0,0,0,0
 20/03/2020,Argentina,neuquen,2,0,0,0,0
+20/03/2020,Argentina,no-data,0,0,27,872,1030
 20/03/2020,Argentina,santiago-del-estero,1,0,0,0,0
 20/03/2020,Argentina,tierra-del-fuego,1,0,0,0,0
 21/03/2020,Argentina,buenos-aires,15,1,0,0,0
@@ -62,6 +67,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 21/03/2020,Argentina,cordoba,4,0,0,0,0
 21/03/2020,Argentina,corrientes,2,0,0,0,0
 21/03/2020,Argentina,mendoza,5,0,0,0,0
+21/03/2020,Argentina,no-data,0,0,31,1028,1253
 21/03/2020,Argentina,rio-negro,1,0,0,0,0
 21/03/2020,Argentina,santa-fe,2,0,0,0,0
 21/03/2020,Argentina,tierra-del-fuego,3,0,0,0,0
@@ -71,10 +77,11 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 22/03/2020,Argentina,chaco,7,0,0,0,0
 22/03/2020,Argentina,cordoba,8,0,0,0,0
 22/03/2020,Argentina,misiones,1,0,0,0,0
+22/03/2020,Argentina,no-data,0,0,51,1271,1537
 22/03/2020,Argentina,tucuman,5,0,0,0,0
 23/03/2020,Argentina,buenos-aires,5,0,0,0,0
 23/03/2020,Argentina,capital-federal,11,0,0,0,0
-23/03/2020,Argentina,chaco,4,0,0,0,0
+23/03/2020,Argentina,chaco,4,0,52,1453,1754
 23/03/2020,Argentina,cordoba,3,0,0,0,0
 23/03/2020,Argentina,santa-fe,13,0,0,0,0
 24/03/2020,Argentina,buenos-aires,29,1,0,0,0
@@ -83,6 +90,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 24/03/2020,Argentina,cordoba,7,0,0,0,0
 24/03/2020,Argentina,la-pampa,1,0,0,0,0
 24/03/2020,Argentina,neuquen,1,0,0,0,0
+24/03/2020,Argentina,no-data,0,0,63,1453,1838
 24/03/2020,Argentina,santa-cruz,1,0,0,0,0
 24/03/2020,Argentina,santa-fe,3,0,0,0,0
 24/03/2020,Argentina,tierra-del-fuego,4,0,0,0,0
@@ -93,6 +101,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 25/03/2020,Argentina,entre-rios,3,0,0,0,0
 25/03/2020,Argentina,mendoza,1,0,0,0,0
 25/03/2020,Argentina,neuquen,1,0,0,0,0
+25/03/2020,Argentina,no-data,0,0,72,1946,2448
 25/03/2020,Argentina,san-luis,4,0,0,0,0
 25/03/2020,Argentina,santa-cruz,5,0,0,0,0
 25/03/2020,Argentina,santa-fe,22,0,0,0,0
@@ -105,6 +114,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 26/03/2020,Argentina,jujuy,2,0,0,0,0
 26/03/2020,Argentina,mendoza,1,0,0,0,0
 26/03/2020,Argentina,neuquen,3,0,0,0,0
+26/03/2020,Argentina,no-data,0,0,75,2258,2847
 26/03/2020,Argentina,san-luis,0,0,0,0,0
 26/03/2020,Argentina,santa-cruz,2,0,0,0,0
 26/03/2020,Argentina,santa-fe,12,0,0,0,0
@@ -118,7 +128,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 27/03/2020,Argentina,mendoza,1,1,0,0,0
 27/03/2020,Argentina,misiones,1,0,0,0,0
 27/03/2020,Argentina,neuquen,4,1,0,0,0
-27/03/2020,Argentina,no-data,-16,1,0,0,0
+27/03/2020,Argentina,no-data,-16,1,80,2817,3507
 27/03/2020,Argentina,rio-negro,3,1,0,0,0
 27/03/2020,Argentina,santa-fe,9,0,0,0,0
 27/03/2020,Argentina,santiago-del-estero,1,0,0,0,0
@@ -167,7 +177,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 31/03/2020,Argentina,la-rioja,0,1,0,0,0
 31/03/2020,Argentina,mendoza,2,0,0,0,0
 31/03/2020,Argentina,misiones,1,0,0,0,0
-31/03/2020,Argentina,no-data,0,1,0,0,0
+31/03/2020,Argentina,no-data,0,0,248,4597,5651
 31/03/2020,Argentina,rio-negro,1,0,0,0,0
 31/03/2020,Argentina,santa-fe,22,0,0,0,0
 31/03/2020,Argentina,tierra-del-fuego,7,0,0,0,0
