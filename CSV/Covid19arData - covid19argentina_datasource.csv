@@ -1,4 +1,4 @@
-fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUM de nue_casosconf_diff,SUM de nue_fallecidos_diff,SUM de tot_recuperados,SUM de tot_test_negativos,SUM de tot_test
+fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUMnue_fallecidos_diff,SUMtot_recuperados,SUMtot_test_negativos,SUMtot_test
 ,,,0,0,0,0,0
 2/03/2020,Argentina,capital-federal,1,0,0,0,0
 3/03/2020,Argentina,indeterminado,0,0,0,0,0
