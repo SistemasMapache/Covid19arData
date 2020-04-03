@@ -217,4 +217,20 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 1/04/2020,28,12,Argentina,Santa Cruz,,1.121,10,30,0,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,santa-cruz
 1/04/2020,28,12,Argentina,Santa Fe,,1.132,11,31,1,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,santa-fe
 1/04/2020,28,12,Argentina,Tucumán,,1.133,1,31,0,,,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,tucuman
-1/04/2020,28,12,Argentina,Indeterminado,,1.133,0,31,0,256,5144,,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,no-data
+1/04/2020,28,12,Argentina,Indeterminado,,1.133,0,31,0,256,5144,6277,transmision comunitaria,informe nacional vespertino,https://www.argentina.gob.ar/sites/default/files/01-04-20_reporte-vespertino_covid-19.pdf,,no-data
+2/04/2020,29,13,Argentina,Buenos Aires,,1.169,36,33,2,,,,transmision comunitaria,,,,buenos-aires
+2/04/2020,29,13,Argentina,CABA,,1.193,24,33,0,,,,transmision comunitaria,,,,capital-federal
+2/04/2020,29,13,Argentina,Chaco,,1.196,3,34,1,,,,transmision comunitaria,,,,chaco
+2/04/2020,29,13,Argentina,Córdoba,,1.212,16,34,0,,,,transmision comunitaria,,,,cordoba
+2/04/2020,29,13,Argentina,Corrientes,,1.213,1,34,0,,,,transmision comunitaria,,,,corrientes
+2/04/2020,29,13,Argentina,Entre Ríos,,1.215,2,34,0,,,,transmision comunitaria,,,,entre-rios
+2/04/2020,29,13,Argentina,Jujuy,,1.217,2,34,0,,,,transmision comunitaria,,,,jujuy
+2/04/2020,29,13,Argentina,La Rioja,,1.220,3,34,0,,,,transmision comunitaria,,,,la-rioja
+2/04/2020,29,13,Argentina,Neuquén,,1.224,4,34,0,,,,transmision comunitaria,,,,neuquen
+2/04/2020,29,13,Argentina,San Luis,,1.226,2,34,0,,,,transmision comunitaria,,,,san-luis
+2/04/2020,29,13,Argentina,Santa Cruz,,1.228,2,34,0,,,,transmision comunitaria,,,,santa-cruz
+2/04/2020,29,13,Argentina,Santa Fe,,1.236,8,34,0,,,,transmision comunitaria,,,,santa-fe
+2/04/2020,29,13,Argentina,Santiago del Estero,,1.237,1,34,0,,,,transmision comunitaria,,,,santiago-del-estero
+2/04/2020,29,13,Argentina,Tierra del Fuego,,1.261,24,34,0,,,,transmision comunitaria,,,,tierra-del-fuego
+2/04/2020,29,13,Argentina,Tucumán,,1.265,4,34,0,,,,transmision comunitaria,,,,tucuman
+2/04/2020,29,13,Argentina,Mendoza,,1.265,0,35,1,,,,transmision comunitaria,,,,mendoza
