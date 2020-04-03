@@ -188,7 +188,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 1/04/2020,Argentina,corrientes,1,0,0,0,0
 1/04/2020,Argentina,entre-rios,1,0,0,0,0
 1/04/2020,Argentina,mendoza,10,0,0,0,0
-1/04/2020,Argentina,neuquen,4,0,0,0,0
+1/04/2020,Argentina,neuquen,4,1,0,0,0
 1/04/2020,Argentina,no-data,0,0,256,5144,6277
 1/04/2020,Argentina,salta,2,0,0,0,0
 1/04/2020,Argentina,san-luis,1,0,0,0,0
@@ -205,6 +205,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 2/04/2020,Argentina,la-rioja,3,0,0,0,0
 2/04/2020,Argentina,mendoza,0,1,0,0,0
 2/04/2020,Argentina,neuquen,4,0,0,0,0
+2/04/2020,Argentina,no-data,0,0,266,6120,7385
 2/04/2020,Argentina,san-luis,2,0,0,0,0
 2/04/2020,Argentina,santa-cruz,2,0,0,0,0
 2/04/2020,Argentina,santa-fe,8,0,0,0,0
