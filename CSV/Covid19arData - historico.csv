@@ -247,4 +247,17 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 3/04/2020,30,14,Argentina,Santa Fe,,1.352,8,41,0,,,,transmision comunitaria,,,,santa-fe
 3/04/2020,30,14,Argentina,Tierra del Fuego,,1.353,1,41,0,,,,transmision comunitaria,,,,tierra-del-fuego
 3/04/2020,30,14,Argentina,Tucumán,,1.353,0,42,1,,,,transmision comunitaria,,,,tucuman
-3/04/2020,30,14,Argentina,Indeterminado,,1.353,0,42,0,,,,transmision comunitaria,,,,no-data
+3/04/2020,30,14,Argentina,Indeterminado,,1.353,0,42,0,279,7135,8488,transmision comunitaria,,,,no-data
+4/04/2020,31,15,Argentina,Buenos Aires,,1.379,26,43,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,buenos-aires
+4/04/2020,31,15,Argentina,CABA,,1.413,34,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,capital-federal
+4/04/2020,31,15,Argentina,Chaco,,1.421,8,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,chaco
+4/04/2020,31,15,Argentina,Córdoba,,1.424,3,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,cordoba
+4/04/2020,31,15,Argentina,La Rioja,,1.426,2,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,la-rioja
+4/04/2020,31,15,Argentina,Neuquén,,1.430,4,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,neuquen
+4/04/2020,31,15,Argentina,Río Negro,,1.435,5,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,rio-negro
+4/04/2020,31,15,Argentina,Santa Cruz,,1.436,1,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,santa-cruz
+4/04/2020,31,15,Argentina,Santa Fe,,1.441,5,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,santa-cruz
+4/04/2020,31,15,Argentina,Santiago del Estero,,1.442,1,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,santiago-del-estero
+4/04/2020,31,15,Argentina,Tierra del Fuego,,1.450,8,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,tierra-del-fuego
+4/04/2020,31,15,Argentina,Tucumán,,1.451,1,43,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,tucuman
+4/04/2020,31,15,Argentina,Indeterminado,,1.451,0,43,0,,,,transmision comunitaria,,,,no-data
