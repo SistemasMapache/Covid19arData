@@ -260,7 +260,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 4/04/2020,31,15,Argentina,Santiago del Estero,,1.442,1,44,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,santiago-del-estero
 4/04/2020,31,15,Argentina,Tierra del Fuego,,1.450,8,44,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,tierra-del-fuego
 4/04/2020,31,15,Argentina,Tucumán,,1.451,1,44,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/04-04-20-reporte-vespertino-covid-19.pdf,,tucuman
-4/04/2020,31,15,Argentina,Indeterminado,,1.451,0,44,0,,,,transmision comunitaria,,,,no-data
+4/04/2020,31,15,Argentina,Indeterminado,,1.451,0,44,0,280,7494,8945,transmision comunitaria,,,,no-data
 5/04/2020,32,16,Argentina,Buenos Aires,,1.484,33,45,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,buenos-aires
 5/04/2020,32,16,Argentina,CABA,,1.516,32,45,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,capital-federal
 5/04/2020,32,16,Argentina,Córdoba,,1.521,5,46,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,cordoba
@@ -272,3 +272,18 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 5/04/2020,32,16,Argentina,Santa Cruz,,1.540,1,46,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,santa-cruz
 5/04/2020,32,16,Argentina,Santa Fe,,1.551,11,46,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,santa-fe
 5/04/2020,32,16,Argentina,Tierra del Fuego,,1.554,3,46,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,tierra-del-fuego
+5/04/2020,32,16,Argentina,Indeterminado,,1.557,3,46,0,325,8125,9679,transmision comunitaria,,,,no-data
+6/04/2020,33,17,Argentina,Buenos Aires,,1.569,12,47,1,,,,transmision comunitaria,,,,buenos-aires
+6/04/2020,33,17,Argentina,CABA,,1.586,17,50,3,,,,transmision comunitaria,,,,capital-federal
+6/04/2020,33,17,Argentina,Chaco,,1.590,4,50,0,,,,transmision comunitaria,,,,chaco
+6/04/2020,33,17,Argentina,Córdoba,,1.597,7,50,0,,,,transmision comunitaria,,,,cordoba
+6/04/2020,33,17,Argentina,Corrientes,,1.599,2,50,0,,,,transmision comunitaria,,,,corrientes
+6/04/2020,33,17,Argentina,La Rioja,,1.600,1,50,0,,,,transmision comunitaria,,,,la-rioja
+6/04/2020,33,17,Argentina,Mendoza,,1.601,1,50,0,,,,transmision comunitaria,,,,mendoza
+6/04/2020,33,17,Argentina,Neuquén,,1.607,6,51,1,,,,transmision comunitaria,,,,neuquen
+6/04/2020,33,17,Argentina,Río Negro,,1.609,2,51,0,,,,transmision comunitaria,,,,rio-negro
+6/04/2020,33,17,Argentina,San Luis,,1.610,1,51,0,,,,transmision comunitaria,,,,san-luis
+6/04/2020,33,17,Argentina,Santa Fe,,1.618,8,51,0,,,,transmision comunitaria,,,,santa-fe
+6/04/2020,33,17,Argentina,Santiago del Estero,,1.624,6,51,0,,,,transmision comunitaria,,,,santiago-del-estero
+6/04/2020,33,17,Argentina,Tierra del Fuego,,1.626,2,51,0,,,,transmision comunitaria,,,,tierra-del-fuego
+6/04/2020,33,17,Argentina,Tucumán,,1.631,5,51,0,,,,transmision comunitaria,,,,tucuman
