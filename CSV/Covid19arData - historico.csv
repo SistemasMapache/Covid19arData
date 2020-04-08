@@ -272,18 +272,31 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 5/04/2020,32,16,Argentina,Santa Cruz,,1.540,1,46,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,santa-cruz
 5/04/2020,32,16,Argentina,Santa Fe,,1.551,11,46,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,santa-fe
 5/04/2020,32,16,Argentina,Tierra del Fuego,,1.554,3,46,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/05-04-20-reporte-vespertino-covid-19.pdf,,tierra-del-fuego
-5/04/2020,32,16,Argentina,Indeterminado,,1.557,3,46,0,325,8125,9679,transmision comunitaria,,,,no-data
-6/04/2020,33,17,Argentina,Buenos Aires,,1.569,12,47,1,,,,transmision comunitaria,,,,buenos-aires
-6/04/2020,33,17,Argentina,CABA,,1.586,17,50,3,,,,transmision comunitaria,,,,capital-federal
-6/04/2020,33,17,Argentina,Chaco,,1.590,4,50,0,,,,transmision comunitaria,,,,chaco
-6/04/2020,33,17,Argentina,Córdoba,,1.597,7,50,0,,,,transmision comunitaria,,,,cordoba
-6/04/2020,33,17,Argentina,Corrientes,,1.599,2,50,0,,,,transmision comunitaria,,,,corrientes
-6/04/2020,33,17,Argentina,La Rioja,,1.600,1,50,0,,,,transmision comunitaria,,,,la-rioja
-6/04/2020,33,17,Argentina,Mendoza,,1.601,1,50,0,,,,transmision comunitaria,,,,mendoza
-6/04/2020,33,17,Argentina,Neuquén,,1.607,6,51,1,,,,transmision comunitaria,,,,neuquen
-6/04/2020,33,17,Argentina,Río Negro,,1.609,2,51,0,,,,transmision comunitaria,,,,rio-negro
-6/04/2020,33,17,Argentina,San Luis,,1.610,1,51,0,,,,transmision comunitaria,,,,san-luis
-6/04/2020,33,17,Argentina,Santa Fe,,1.618,8,51,0,,,,transmision comunitaria,,,,santa-fe
-6/04/2020,33,17,Argentina,Santiago del Estero,,1.624,6,51,0,,,,transmision comunitaria,,,,santiago-del-estero
-6/04/2020,33,17,Argentina,Tierra del Fuego,,1.626,2,51,0,,,,transmision comunitaria,,,,tierra-del-fuego
-6/04/2020,33,17,Argentina,Tucumán,,1.631,5,51,0,,,,transmision comunitaria,,,,tucuman
+5/04/2020,32,16,Argentina,Indeterminado,,1.554,0,46,0,325,8125,9679,transmision comunitaria,,,,no-data
+6/04/2020,33,17,Argentina,Buenos Aires,,1.566,12,47,1,,,,transmision comunitaria,,,,buenos-aires
+6/04/2020,33,17,Argentina,CABA,,1.583,17,50,3,,,,transmision comunitaria,,,,capital-federal
+6/04/2020,33,17,Argentina,Chaco,,1.587,4,50,0,,,,transmision comunitaria,,,,chaco
+6/04/2020,33,17,Argentina,Córdoba,,1.594,7,50,0,,,,transmision comunitaria,,,,cordoba
+6/04/2020,33,17,Argentina,Corrientes,,1.596,2,50,0,,,,transmision comunitaria,,,,corrientes
+6/04/2020,33,17,Argentina,La Rioja,,1.597,1,50,0,,,,transmision comunitaria,,,,la-rioja
+6/04/2020,33,17,Argentina,Mendoza,,1.598,1,50,0,,,,transmision comunitaria,,,,mendoza
+6/04/2020,33,17,Argentina,Neuquén,,1.604,6,51,1,,,,transmision comunitaria,,,,neuquen
+6/04/2020,33,17,Argentina,Río Negro,,1.606,2,51,0,,,,transmision comunitaria,,,,rio-negro
+6/04/2020,33,17,Argentina,San Luis,,1.607,1,51,0,,,,transmision comunitaria,,,,san-luis
+6/04/2020,33,17,Argentina,Santa Fe,,1.615,8,51,0,,,,transmision comunitaria,,,,santa-fe
+6/04/2020,33,17,Argentina,Santiago del Estero,,1.620,5,51,0,,,,transmision comunitaria,,,correccion se resta caso del 7-4-2020,santiago-del-estero
+6/04/2020,33,17,Argentina,Tierra del Fuego,,1.622,2,51,0,,,,transmision comunitaria,,,,tierra-del-fuego
+6/04/2020,33,17,Argentina,Tucumán,,1.627,5,51,0,,,,transmision comunitaria,,,,tucuman
+6/04/2020,33,17,Argentina,Indeterminado,,1.627,0,51,0,338,8707,10335,transmision comunitaria,,,,no-data
+7/04/2020,34,18,Argentina,Buenos Aires,,1.661,34,54,3,,,,transmision comunitaria,,,,buenos-aires
+7/04/2020,34,18,Argentina,CABA,,1.685,24,56,2,,,,transmision comunitaria,,,,capital-federal
+7/04/2020,34,18,Argentina,Chaco,,1.689,4,56,0,,,,transmision comunitaria,,,,chaco
+7/04/2020,34,18,Argentina,Córdoba,,1.693,4,56,0,,,,transmision comunitaria,,,,cordoba
+7/04/2020,34,18,Argentina,Entre Ríos,,1.694,1,56,0,,,,transmision comunitaria,,,,entre-rios
+7/04/2020,34,18,Argentina,Mendoza,,1.696,2,57,1,,,,transmision comunitaria,,,,mendoza
+7/04/2020,34,18,Argentina,Neuquén,,1.699,3,57,0,,,,transmision comunitaria,,,,neuquen
+7/04/2020,34,18,Argentina,Río Negro,,1.701,2,57,0,,,,transmision comunitaria,,,,rio-negro
+7/04/2020,34,18,Argentina,Santa Cruz,,1.709,8,57,0,,,,transmision comunitaria,,,,santa-cruz
+7/04/2020,34,18,Argentina,Santa Fe,,1.712,3,57,0,,,,transmision comunitaria,,,,santa-fe
+7/04/2020,34,18,Argentina,Tierra del Fuego,,1.714,2,57,0,,,,transmision comunitaria,,,,tierra-del-fuego
+7/04/2020,34,18,Argentina,Tucumán,,1.715,1,57,0,,,,transmision comunitaria,,,,tucuman
