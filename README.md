@@ -13,7 +13,7 @@ También se esta tweetboteando en @Covid19arData.
 * Data histórica en CSV: https://raw.githubusercontent.com/SistemasMapache/Covid19arData/master/CSV/Covid19arData%20-%20historico.csv
 * Data histórica en XLS: https://github.com/SistemasMapache/Covid19arData/raw/master/XLS/Covid19arData%20-%20historico.xlsx
 
-* Tweetbot: https://twitter.com/Covid19arData 
+* Webgis de reuso de datos: https://covid19-argentina.herokuapp.com/ (https://github.com/ezequiel9)
 
 ### Fuentes
 * Parte diario Nacional: https://www.argentina.gob.ar/coronavirus/informe-diario
