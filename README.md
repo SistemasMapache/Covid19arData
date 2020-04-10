@@ -11,11 +11,12 @@ También se esta tweetboteando en @Covid19arData.
 * **Google Drive Data: https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing**
 
 * Data histórica en CSV: https://raw.githubusercontent.com/SistemasMapache/Covid19arData/master/CSV/Covid19arData%20-%20historico.csv
+
 * Data histórica en XLS: https://github.com/SistemasMapache/Covid19arData/raw/master/XLS/Covid19arData%20-%20historico.xlsx
 
-* Webgis de reuso de datos: https://covid19-argentina.herokuapp.com/ (https://github.com/ezequiel9)
+* Webgis de reuso de datos: https://covid19-argentina.herokuapp.com
 
-### Fuentes
+### Fuentes Oficiales
 * Parte diario Nacional: https://www.argentina.gob.ar/coronavirus/informe-diario
 * Parte diario Santa Fe: https://www.santafe.gob.ar/index.php/web/content/view/full/234420/
 * Parte diario BsAs: https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico
@@ -28,14 +29,23 @@ También se esta tweetboteando en @Covid19arData.
 * Parte diario Chaco: http://comunicacion.chaco.gov.ar/lista-noticias/328
 * Parte diario Tierra del fuego: https://www.facebook.com/saludtdf
 * Parte diario Mendoza: http://www.salud.mendoza.gov.ar/, http://www.prensa.mendoza.gov.ar/salud/
-* Parte diario Cordoba (difusion): https://www.lavoz.com.ar/temas/coronavirus-en-cordoba, https://cdn.lavoz.com.ar/sites/default/files/file_attachments/nota_periodistica/PARA_PRENSA_-_29.03.2020_Informe_EPIDEMIOLOGICO_casos_confirmados.pdf
 * Parte diario Entre Rios: http://www.entrerios.gov.ar/msalud/#/ms-1/3
-
 * Partes diarios videos oficiales Casa Rosada: https://www.youtube.com/user/casarosada/videos
+
+
+### Fuentes No Oficiales
+* CABA: https://eduu1993.carto.com/builder/6b400d83-bfa3-4ce1-8f3d-b680d36ce103/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B-34.88818391007526%2C-58.98422241210938%5D%2C%22sw%22%3A%5B-34.453350878522286%2C-57.93502807617188%5D%2C%22center%22%3A%5B-34.671052719358904%2C-58.45962524414063%5D%2C%22zoom%22%3A11%7D%7D
+
+* Buenos Aires: https://public.tableau.com/profile/mart.n.dur.#!/vizhome/CasosdecoronaviruspormunicipioPBA/Hoja1?publish=yes
+
 * Chequeo extra: Wiki Pandemia de enfermedad por coronavirus 2020 Argentina: https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Argentina
+
 * Tabla de datos diarios de Jorge Aliaga @jorgeluisaliaga: https://docs.google.com/spreadsheets/d/1M7uDgWSfy6z1MNbC9FP6jTNgvY7XchJ0m-BfW88SKtQ/edit#gid=0
 
 * Visualización de mapa y avance de casos de Ezequiel Fernandez: https://covid19argentina.com/
+
+* Parte diario Cordoba (difusion): https://www.lavoz.com.ar/temas/coronavirus-en-cordoba, https://cdn.lavoz.com.ar/sites/default/files/file_attachments/nota_periodistica/PARA_PRENSA_-_29.03.2020_Informe_EPIDEMIOLOGICO_casos_confirmados.pdf
+
 
 
 ### Descripción de columnas de la tabla
