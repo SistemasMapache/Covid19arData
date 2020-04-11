@@ -345,7 +345,11 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 9/04/2020,36,20,Argentina,Buenos Aires,,1823,28,71,6,,,,transmision comunitaria,,,,buenos-aires
 9/04/2020,36,20,Argentina,CABA,,1846,23,77,6,,,,transmision comunitaria,,,,capital-federal
 9/04/2020,36,20,Argentina,Río Negro,,1859,13,77,0,,,,transmision comunitaria,,,,rio-negro
-9/04/2020,36,20,Argentina,Santa Fe,,1866,7,78,1,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257748/1357646/file/Parte%20MSSF%20Coronavirus%2008-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Santa Fe,Elortondo,1861,2,77,0,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Santa Fe,Gálvez,1863,2,77,0,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Santa Fe,Venado Tuerto,1864,1,77,0,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Santa Fe,Santa Fe,1865,1,78,1,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
+9/04/2020,36,20,Argentina,Santa Fe,Oliveros,1866,1,78,0,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257751/1357656/file/Parte%20MSSF%20Coronavirus%2009-04-2020%2019%20hs.pdf,,santa-fe
 9/04/2020,36,20,Argentina,Neuquén,,1873,7,78,0,,,,transmision comunitaria,,,,neuquen
 9/04/2020,36,20,Argentina,Chaco,,1879,6,79,1,,,,transmision comunitaria,,,,chaco
 9/04/2020,36,20,Argentina,Córdoba,,1884,5,79,0,,,,transmision comunitaria,,,,cordoba
@@ -353,3 +357,16 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 9/04/2020,36,20,Argentina,Entre Ríos,,1891,2,79,0,,,,transmision comunitaria,,,,entre-rios
 9/04/2020,36,20,Argentina,Mendoza,,1893,2,79,0,,,,transmision comunitaria,,,,mendoza
 9/04/2020,36,20,Argentina,Tucumán,,1894,1,79,0,,,,transmision comunitaria,,,,tucuman
+9/04/2020,36,20,Argentina,Indeterminado,,1894,0,79,0,375,,,transmision comunitaria,,,,no-data
+10/04/2020,37,21,Argentina,Buenos Aires,,1913,19,80,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,buenos-aires
+10/04/2020,37,21,Argentina,CABA,,1924,11,81,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,capital-federal
+10/04/2020,37,21,Argentina,Chaco,,1929,5,81,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,chaco
+10/04/2020,37,21,Argentina,Córdoba,,1942,13,81,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,cordoba
+10/04/2020,37,21,Argentina,La Pampa,,1943,1,81,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,la-pampa
+10/04/2020,37,21,Argentina,Mendoza,,1952,9,81,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,mendoza
+10/04/2020,37,21,Argentina,Neuquén,,1959,7,81,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,neuquen
+10/04/2020,37,21,Argentina,Río Negro,,1966,7,82,1,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,rio-negro
+10/04/2020,37,21,Argentina,Santa Cruz,,1972,6,82,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,santa-cruz
+10/04/2020,37,21,Argentina,Santa Fe,Rosario,1973,1,82,0,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257767/1357705/file/Parte%20MSSF%20Coronavirus%2010-04-2020%2019%20hs.pdf,,santa-fe
+10/04/2020,37,21,Argentina,Tierra del Fuego,,1975,2,82,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,tierra-del-fuego
+10/04/2020,37,21,Argentina,Indeterminado,,1975,0,82,0,440,13584,14150,transmision comunitaria,,,,no-data
