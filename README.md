@@ -46,7 +46,6 @@ También se esta tweetboteando en @Covid19arData.
 
 * Parte diario de Nora Bär https://twitter.com/norabar
 
-* Información recolectada por Juan Cuaranta, Santa Fé.
 
 ### Descripción de columnas de la tabla
 * fecha : fecha a la que corresponde los datos.
@@ -82,5 +81,9 @@ Telegram channel Usuaries de datos Argentina @daterxsargentina
 Nadia Perez Laureda
 
 Ezequiel Fernandez (http://ezequielfernandez.com/)
+
+Dirección de estadística y censos dependiente de la subsecretaría de sistemas de tecnología de la información de la provincia de Corrientes.
+
+Juan Cuaranta, información recoletada de Santa Fé.
 
 Toda sugerencia es bienvenida! Tenés nuevas fuentes de partes diarios provinciales? Escriban por Issues o manden tw a @vlasvlasvlas, @damcast
