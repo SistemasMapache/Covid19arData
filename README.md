@@ -80,7 +80,7 @@ Telegram channel Usuaries de datos Argentina @daterxsargentina
 
 Nadia Perez Laureda
 
-Ezequiel Fernandez (http://ezequielfernandez.com/)
+Ezequiel Fernandez 
 
 Dirección de estadística y censos dependiente de la subsecretaría de sistemas de tecnología de la información de la provincia de Corrientes.
 
