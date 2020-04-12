@@ -46,6 +46,7 @@ También se esta tweetboteando en @Covid19arData.
 
 * Parte diario de Nora Bär https://twitter.com/norabar
 
+* Información recolectada por Juan Cuaranta, Santa Fé.
 
 ### Descripción de columnas de la tabla
 * fecha : fecha a la que corresponde los datos.
