@@ -44,6 +44,7 @@ También se esta tweetboteando en @Covid19arData.
 
 * Parte diario Cordoba (difusion): https://www.lavoz.com.ar/temas/coronavirus-en-cordoba, https://cdn.lavoz.com.ar/sites/default/files/file_attachments/nota_periodistica/PARA_PRENSA_-_29.03.2020_Informe_EPIDEMIOLOGICO_casos_confirmados.pdf
 
+* Parte diario de Nora Bär https://twitter.com/norabar
 
 
 ### Descripción de columnas de la tabla
