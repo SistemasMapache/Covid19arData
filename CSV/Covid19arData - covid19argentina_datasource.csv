@@ -294,7 +294,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 9/04/2020,Argentina,capital-federal,23,6,0,0,0
 9/04/2020,Argentina,chaco,6,1,0,0,0
 9/04/2020,Argentina,cordoba,5,0,0,0,0
-9/04/2020,Argentina,entre-rios,2,0,0,0,0
+9/04/2020,Argentina,entre-rios,1,0,0,0,0
 9/04/2020,Argentina,la-rioja,5,0,0,0,0
 9/04/2020,Argentina,mendoza,2,0,0,0,0
 9/04/2020,Argentina,neuquen,7,0,0,0,0
@@ -320,7 +320,7 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 11/04/2020,Argentina,la-rioja,4,0,0,0,0
 11/04/2020,Argentina,mendoza,5,0,0,0,0
 11/04/2020,Argentina,neuquen,1,0,0,0,0
-11/04/2020,Argentina,no-data,0,0,0,0,0
+11/04/2020,Argentina,no-data,0,0,468,15016,17158
 11/04/2020,Argentina,rio-negro,23,0,0,0,0
 11/04/2020,Argentina,san-juan,1,0,0,0,0
 11/04/2020,Argentina,santa-cruz,3,0,0,0,0
@@ -328,3 +328,14 @@ fecha,osm_admin_level_2,covid19argentina_admin_level_4,SUMnue_casosconf_diff,SUM
 11/04/2020,Argentina,santiago-del-estero,3,0,0,0,0
 11/04/2020,Argentina,tierra-del-fuego,8,0,0,0,0
 11/04/2020,Argentina,tucuman,1,0,0,0,0
+12/04/2020,Argentina,buenos-aires,28,4,0,0,0
+12/04/2020,Argentina,capital-federal,8,1,0,0,0
+12/04/2020,Argentina,chaco,1,0,0,0,0
+12/04/2020,Argentina,cordoba,5,1,0,0,0
+12/04/2020,Argentina,la-rioja,1,0,0,0,0
+12/04/2020,Argentina,mendoza,3,0,0,0,0
+12/04/2020,Argentina,neuquen,1,0,0,0,0
+12/04/2020,Argentina,no-data,0,0,515,15924,18132
+12/04/2020,Argentina,rio-negro,13,0,0,0,0
+12/04/2020,Argentina,santa-fe,3,0,0,0,0
+12/04/2020,Argentina,tierra-del-fuego,4,0,0,0,0
