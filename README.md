@@ -31,23 +31,26 @@ La informacion se completa en un google drive y se exporta en formato CSV en est
 * Partes diarios videos oficiales Casa Rosada: https://www.youtube.com/user/casarosada/videos
 
 
-### Fuentes No Oficiales
-* CABA: https://eduu1993.carto.com/builder/6b400d83-bfa3-4ce1-8f3d-b680d36ce103/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B-34.88818391007526%2C-58.98422241210938%5D%2C%22sw%22%3A%5B-34.453350878522286%2C-57.93502807617188%5D%2C%22center%22%3A%5B-34.671052719358904%2C-58.45962524414063%5D%2C%22zoom%22%3A11%7D%7D
+### Fuentes No Oficiales 
 
-* Buenos Aires: https://public.tableau.com/profile/mart.n.dur.#!/vizhome/CasosdecoronaviruspormunicipioPBA/Hoja1?publish=yes
+* Datos CABA: https://eduu1993.carto.com/builder/6b400d83-bfa3-4ce1-8f3d-b680d36ce103/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B-34.88818391007526%2C-58.98422241210938%5D%2C%22sw%22%3A%5B-34.453350878522286%2C-57.93502807617188%5D%2C%22center%22%3A%5B-34.671052719358904%2C-58.45962524414063%5D%2C%22zoom%22%3A11%7D%7D
 
-* Rio Negro: https://public.flourish.studio/visualisation/1908120/ (https://twitter.com/ClariCardozoCas Clari Cardozo )
+* Datos Buenos Aires: https://public.tableau.com/profile/mart.n.dur.#!/vizhome/CasosdecoronaviruspormunicipioPBA/Hoja1?publish=yes
 
-* Chequeo extra: Wiki Pandemia de enfermedad por coronavirus 2020 Argentina: https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Argentina
+* Datos Rio Negro: https://public.flourish.studio/visualisation/1908120/ (https://twitter.com/ClariCardozoCas Clari Cardozo )
+
+* Datos Cordoba (difusión): https://www.lavoz.com.ar/temas/coronavirus-en-cordoba, https://cdn.lavoz.com.ar/sites/default/files/file_attachments/nota_periodistica/PARA_PRENSA_-_29.03.2020_Informe_EPIDEMIOLOGICO_casos_confirmados.pdf
+
+* Wiki Pandemia de enfermedad por coronavirus 2020 Argentina: https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Argentina
 
 * Tabla de datos diarios de Jorge Aliaga @jorgeluisaliaga: https://docs.google.com/spreadsheets/d/1M7uDgWSfy6z1MNbC9FP6jTNgvY7XchJ0m-BfW88SKtQ/edit#gid=0
 
-* Parte diario Cordoba (difusion): https://www.lavoz.com.ar/temas/coronavirus-en-cordoba, https://cdn.lavoz.com.ar/sites/default/files/file_attachments/nota_periodistica/PARA_PRENSA_-_29.03.2020_Informe_EPIDEMIOLOGICO_casos_confirmados.pdf
-
 * Parte diario de Nora Bär https://twitter.com/norabar
 
+* Soporte de datos al proyecto de mapeo de OpenStreetMap: Argentina/COVID-19 https://github.com/gabriel-de-luca/covid-19 
 
-### Descripción de columnas de la tabla
+
+### Descripción de columnas de la tabla historica
 * fecha : fecha a la que corresponde los datos.
 * dia_inicio : cant dias desde el inicio del caso 1.
 * dia_cuarentena_dnu260: cant dias desde la cuarentena por DNU 260.
