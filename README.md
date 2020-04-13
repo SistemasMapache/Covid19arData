@@ -12,7 +12,7 @@ La informacion se completa en un google drive y se exporta en formato CSV en est
 
 * Data histórica en XLS: https://github.com/SistemasMapache/Covid19arData/raw/master/XLS/Covid19arData%20-%20historico.xlsx
 
-* Webgis de reuso de datos: https://covid19-argentina.herokuapp.com
+* Reuso de data en formato webgis de reuso de datos: https://covid19argentina.com/ (https://github.com/ezequiel9)
 
 ### Fuentes Oficiales
 * Parte diario Nacional: https://www.argentina.gob.ar/coronavirus/informe-diario
