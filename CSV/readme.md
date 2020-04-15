@@ -1,4 +1,4 @@
-Las descargas CSV ahora estan en formato link al spreadsheet.
+Las descargas ahora estan en formato link al spreadsheet.
 
 ### CSV Historico
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0
@@ -18,6 +18,5 @@ https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsE
 ### CSV Santa Fe
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=1214016401
 
-También se compartió el spreadsheet como web para accesos tipo PowerBI:
-
+### WEB LINK PowerBI:
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRXScnmT7SXnZOrT3wYE-yyJnaNLbH7U9_WPW-Ui2fCbLUussqcyoHJXyf3_VSkj3IsoRt0oeRVqXwm/pubhtml
