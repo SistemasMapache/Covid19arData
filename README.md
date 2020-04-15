@@ -48,7 +48,7 @@ También estan disponibles los [Exportes provinciales](exports/) (por ahora fuen
 * [Parte diario Santa Fe](https://www.santafe.gob.ar/index.php/web/content/view/full/234420/)
 * [Parte diario BsAs](https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico)
 * [Parte diario GCBA](https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires)
-* [Parte diario Rio Negro](https://salud.rionegro.gov.ar/sala/, https://www.rionegro.gov.ar/?buscar&temas=144&catView=3)
+* [Parte diario Rio Negro](https://salud.rionegro.gov.ar/sala/)
 * [Parte diario Misiones](https://coronavirus.misionesonline.net/)
 * [Parte diario San Luis](http://www.sanluis.gov.ar/coronavirus/)
 * [Parte diario Corrientes](https://www.corrientes.gob.ar/home/salud/categorias)
