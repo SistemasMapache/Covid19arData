@@ -104,7 +104,7 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami√
 
 ## Ayudan en esto
 
-Andres Snitcofsky @rusosnith
+Andres Snitcofsky [@rusosnith](https://twitter.com/rusosnith)
 
 Telegram channel Usuaries de datos Argentina @daterxsargentina
 
