@@ -116,7 +116,7 @@ Dirección de estadística y censos dependiente de la subsecretaría de sistemas
 
 Juan Cuaranta, información recoletada de Santa Fé.
 
-## Ayudan en esto
+## Sugerencias
 
 Toda sugerencia es bienvenida.
 
