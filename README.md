@@ -1,18 +1,49 @@
 # Covid19arData
 COVID-19 Argentina data
 
-El objetivo de este repo es poder compartir en formato CSV o tabular y abierto la información oficial proveniente de los partes diarios sobre la situación de COVID-19 en Argentina.
+Es repositorio es creado por Sistemas Mapache con el objetivo de poder tener un repositorio de datos abiertos de la información oficial proveniente de los partes diarios sobre la situación de COVID-19 en Argentina.
 
-La informacion se completa en un google drive y se exporta en formato CSV en este repo.
+## Data
 
-### Accesos
-* **Google Drive Data: https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing**
 
-* Data histórica en CSV: https://raw.githubusercontent.com/SistemasMapache/Covid19arData/master/CSV/Covid19arData%20-%20historico.csv
+## Usar los datos
 
-* Data histórica en XLS: https://github.com/SistemasMapache/Covid19arData/raw/master/XLS/Covid19arData%20-%20historico.xlsx
+Los datos historicos provienen de fuentes oficiales y no se mezclan con fuentes no oficiales.
 
-* Reuso de data en formato webgis: https://covid19argentina.com/ (https://github.com/ezequiel9)
+Para poder entender la data aquí esta el diccionario de datos:
+- [Diccionario de datos](diccionariodatos.md)
+
+### Descarga manual
+
+[Download](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0)
+
+### Python
+
+```
+import pandas as pd
+url = 'https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0'
+df = pd.read_csv(url)
+```
+
+### R
+
+```
+library(readr)
+
+df<-read.csv('https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0')
+```
+
+
+### Stata
+
+```
+import delimited using "https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0", clear
+```
+
+También estan los exports provinciales (por ahora fuente no oficial salvo Santa Fe)
+- [Acceder a exports](exports/)
+
+## Fuentes 
 
 ### Fuentes Oficiales
 * Parte diario Nacional: https://www.argentina.gob.ar/coronavirus/informe-diario
@@ -49,24 +80,24 @@ La informacion se completa en un google drive y se exporta en formato CSV en est
 
 * Soporte de datos al proyecto de mapeo de OpenStreetMap: Argentina/COVID-19 https://github.com/gabriel-de-luca/covid-19 
 
+* webgis https://covid19argentina.com/ (https://github.com/ezequiel9)
 
-### Descripción de columnas de la tabla historica
-* fecha : fecha a la que corresponde los datos.
-* dia_inicio : cant dias desde el inicio del caso 1.
-* dia_cuarentena_dnu260: cant dias desde la cuarentena por DNU 260.
-* osm_admin_level_2: nombre administrativo en OpenStreetMap escala país.
-* osm_admin_level_4: nombre administrativo en OpenStreetMap escala provincia.
-* osm_admin_level_8: nombre administrativo en OpenStreetMap escala ciudad.
-* tot_casosconf: total de casos de infectados confirmados. Columna que sumariza fila a fila el total de casos confirmados.
-* nue_casosconf_diff: nuevos casos infectados del dia.
-* tot_fallecidos: total de fallecidos. Columna que sumariza fila a fila el total de fallecidos.
-* nue_fallecidos_diff: nuevos casos fallecidos del dia.
-* tot_recuperados: total acumulado de casos recuperados.
-* tot_test_negativos: total acumulado de tests negativos.
-* tot_test: total acumulado de tests.
-* transmision_tipo: tipo de transmision al dia de la fecha.
-* informe_link: url de acceso al informe de donde sale el dato.
-* observacion: observaciones relacionadas al dato. Se sumó porque encontramos diferencias entre cantidades informadas en partes diarios provinciales vs partes diarios nacionales.
+
+## No olvides de citarnos :)
+
+Simplemente haciendo referencia al repositorio o si es por redes sociales usando nuestra cuenta de twitter 
+
+> @infompaache
+
+## Hacemos esto
+
+
+### Licencia y readme
+
+El trabajo se publica bajo licencia  Creative Commons 4.0 Internacional (CC BY 4.0).
+Ver [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mayor detalles.
+
+El README fue inspirado en [*A template to make good README.md*](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
 
 ### Ayudan en esto
