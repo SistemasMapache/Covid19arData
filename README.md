@@ -13,7 +13,8 @@ Para poder entender la data [desde aquí puede acceder al Diccionario de datos](
 
 ### Descarga de datos manual
 
-Es posible [Descargar el CSV de datos históricos (link)](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0)
+Es posible [Descargar el CSV de datos históricos (link)](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0) como también es posible [acceder a la Hoja de cálculos (link)](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing)
+
 
 ### Usando Python
 
