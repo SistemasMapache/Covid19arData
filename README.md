@@ -6,7 +6,7 @@ Es repositorio es creado por Sistemas Mapache con el objetivo de poder tener un 
 ## Data
 
 
-## Usar los datos
+### Usar los datos
 
 Los datos historicos provienen de fuentes oficiales y no se mezclan con fuentes no oficiales.
 
