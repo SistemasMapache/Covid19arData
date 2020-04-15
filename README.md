@@ -98,7 +98,7 @@ Ver [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mayo
 El README fue inspirado en [*A template to make good README.md*](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) y en [*el readme del dashboard BID*](https://github.com/EL-BID/IDB-IDB-Invest-Coronavirus-Impact-Dashboard)
 
 ## Quienes somos
-[Sistemas Mapache](https://smapache.com.ar/es/) es una empresa de tecnología especializada en brindar soluciones geoespaciales web a través de herramientas FOSS.
+[__Sistemas Mapache__](https://smapache.com.ar/es/) es una empresa de tecnología especializada en brindar soluciones geoespaciales web a través de herramientas FOSS.
 
 Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Damián Castiñeiras [@damcasti](https://twitter.com/damcasti/) y Leandro Stryjek.
 
