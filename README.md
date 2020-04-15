@@ -87,10 +87,7 @@ Simplemente haciendo referencia al repositorio o si es por redes sociales usando
 
 > @infompaache
 
-## Hacemos esto
-
-
-### Licencia y readme
+## Licencia y readme
 
 El trabajo se publica bajo licencia  Creative Commons 4.0 Internacional (CC BY 4.0).
 Ver [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mayor detalles.
@@ -98,13 +95,12 @@ Ver [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mayo
 El README fue inspirado en [*A template to make good README.md*](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
 
-### Ayudan en esto
+## Quienes somos
+[Sistemas Mapache](https://smapache.com.ar/es/) es una empresa de tecnología especializada en brindar soluciones geoespaciales web a través de herramientas FOSS.
 
-Vladimiro Bellini @vlasvlasvlas
+Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Damián Castiñeiras [@damcasti](https://twitter.com/damcasti/) y Leandro Stryjek.
 
-Damián Castiñeiras @damcast
-
-Leandro Stryjek
+## Ayudan en esto
 
 Andres Snitcofsky @rusosnith
 
@@ -118,4 +114,8 @@ Dirección de estadística y censos dependiente de la subsecretaría de sistemas
 
 Juan Cuaranta, información recoletada de Santa Fé.
 
-Toda sugerencia es bienvenida! Tenés nuevas fuentes de partes diarios provinciales? Escriban por Issues o manden tw a @vlasvlasvlas, @damcast
+## Ayudan en esto
+
+Toda sugerencia es bienvenida.
+
+Tenés nuevas fuentes de partes diarios provinciales? Escribanme a [@vlasvlasvlas](https://twitter.com/vlasvlasvlas)
