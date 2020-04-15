@@ -7,9 +7,9 @@ Es repositorio es creado por Sistemas Mapache con el objetivo de poder tener un 
 
 Los datos historicos provienen de fuentes oficiales y no se mezclan con fuentes no oficiales.
 
-Para poder entender la data aquí esta el [Diccionario de datos](diccionariodatos.md).
+Para poder entender la data [desde aquí puede acceder al Diccionario de datos](diccionariodatos.md).
 
-### Descarga manual
+### Descarga de datos manual
 
 Es posible [Descargar el CSV de datos históricos (link)](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0)
 
@@ -29,34 +29,35 @@ library(readr)
 df<-read.csv('https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0')
 ```
 
-
 ### Usando Stata
 
 ```
 import delimited using "https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0", clear
 ```
 
-### Tablas provinciales
+### Descarga de tablas provinciales
 
 También estan disponibles los [Exportes provinciales](exports/) (por ahora fuente no oficial salvo Santa Fe).
+
 
 ## Fuentes 
 
 ### Fuentes Oficiales
-* Parte diario Nacional: https://www.argentina.gob.ar/coronavirus/informe-diario
-* Parte diario Santa Fe: https://www.santafe.gob.ar/index.php/web/content/view/full/234420/
-* Parte diario BsAs: https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico
-* Parte diario GCBA: https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires
-* Parte diario Rio Negro: https://salud.rionegro.gov.ar/sala/, https://www.rionegro.gov.ar/?buscar&temas=144&catView=3
-* Parte diario Misiones: https://coronavirus.misionesonline.net/
-* Parte diario San Luis: http://www.sanluis.gov.ar/coronavirus/
-* Parte diario Corrientes: https://www.corrientes.gob.ar/home/salud/categorias
-* Parte diario Neuquen: https://www.saludneuquen.gob.ar/coronavirus-comunicados/
-* Parte diario Chaco: http://comunicacion.chaco.gov.ar/lista-noticias/328
-* Parte diario Tierra del fuego: https://www.facebook.com/saludtdf
-* Parte diario Mendoza: http://www.salud.mendoza.gov.ar/, http://www.prensa.mendoza.gov.ar/salud/
-* Parte diario Entre Rios: http://www.entrerios.gov.ar/msalud/#/ms-1/3
-* Partes diarios videos oficiales Casa Rosada: https://www.youtube.com/user/casarosada/videos
+
+* [Parte diario Nacional](https://www.argentina.gob.ar/coronavirus/informe-diario)
+* [Parte diario Santa Fe](https://www.santafe.gob.ar/index.php/web/content/view/full/234420/)
+* [Parte diario BsAs](https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico)
+* [Parte diario GCBA](https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires)
+* [Parte diario Rio Negro](https://salud.rionegro.gov.ar/sala/, https://www.rionegro.gov.ar/?buscar&temas=144&catView=3)
+* [Parte diario Misiones](https://coronavirus.misionesonline.net/)
+* [Parte diario San Luis](http://www.sanluis.gov.ar/coronavirus/)
+* [Parte diario Corrientes](https://www.corrientes.gob.ar/home/salud/categorias)
+* [Parte diario Neuquen](https://www.saludneuquen.gob.ar/coronavirus-comunicados/)
+* [Parte diario Chaco](http://comunicacion.chaco.gov.ar/lista-noticias/328)
+* [Parte diario Tierra del fuego](https://www.facebook.com/saludtdf)
+* [Parte diario Mendoza](http://www.salud.mendoza.gov.ar)
+* [Parte diario Entre Rios](http://www.entrerios.gov.ar/msalud/#/ms-1/3)
+* [Partes diarios videos oficiales Casa Rosada](https://www.youtube.com/user/casarosada/videos)
 
 
 ### Fuentes No Oficiales 
