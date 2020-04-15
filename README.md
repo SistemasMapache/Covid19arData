@@ -6,18 +6,17 @@ Es repositorio es creado por Sistemas Mapache con el objetivo de poder tener un 
 ## Data
 
 
-### Usar los datos
+### Opciones para usar los datos
 
 Los datos historicos provienen de fuentes oficiales y no se mezclan con fuentes no oficiales.
 
-Para poder entender la data aquí esta el diccionario de datos:
-- [Diccionario de datos](diccionariodatos.md)
+Para poder entender la data aquí esta el [Diccionario de datos](diccionariodatos.md).
 
 ### Descarga manual
 
-[Download](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0)
+Es posible [Descargar el CSV de datos históricos (link)](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0)
 
-### Python
+### Usando Python
 
 ```
 import pandas as pd
@@ -25,7 +24,7 @@ url = 'https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBx
 df = pd.read_csv(url)
 ```
 
-### R
+### Usando R
 
 ```
 library(readr)
@@ -34,14 +33,15 @@ df<-read.csv('https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FR
 ```
 
 
-### Stata
+### Usando Stata
 
 ```
 import delimited using "https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0", clear
 ```
 
-También estan los exports provinciales (por ahora fuente no oficial salvo Santa Fe)
-- [Acceder a exports](exports/)
+### Tablas provinciales
+
+También estan disponibles los [Exportes provinciales](exports/) (por ahora fuente no oficial salvo Santa Fe).
 
 ## Fuentes 
 
