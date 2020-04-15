@@ -95,7 +95,7 @@ Simplemente haciendo referencia al repositorio o si es por redes sociales usando
 El trabajo se publica bajo licencia  Creative Commons 4.0 Internacional (CC BY 4.0).
 Ver [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mayor detalles.
 
-El README fue inspirado en [*A template to make good README.md*](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) y en [el readme del dashboard BID](https://github.com/EL-BID/IDB-IDB-Invest-Coronavirus-Impact-Dashboard)
+El README fue inspirado en [*A template to make good README.md*](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) y en [*el readme del dashboard BID*](https://github.com/EL-BID/IDB-IDB-Invest-Coronavirus-Impact-Dashboard)
 
 ## Quienes somos
 [Sistemas Mapache](https://smapache.com.ar/es/) es una empresa de tecnología especializada en brindar soluciones geoespaciales web a través de herramientas FOSS.
