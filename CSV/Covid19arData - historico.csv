@@ -369,7 +369,7 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 10/04/2020,37,21,Argentina,Santa Cruz,,1971,6,82,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,santa-cruz
 10/04/2020,37,21,Argentina,Santa Fe,Rosario,1972,1,82,0,,,,transmision comunitaria,,https://www.santafe.gob.ar/index.php/web/content/download/257767/1357705/file/Parte%20MSSF%20Coronavirus%2010-04-2020%2019%20hs.pdf,,santa-fe
 10/04/2020,37,21,Argentina,Tierra del Fuego,,1974,2,82,0,,,,transmision comunitaria,,https://www.argentina.gob.ar/sites/default/files/10-04-20_reporte_vespertino_covid_19_0.pdf,,tierra-del-fuego
-10/04/2020,37,21,Argentina,Indeterminado,,1974,0,82,0,440,13584,14150,transmision comunitaria,,,,no-data
+10/04/2020,37,21,Argentina,Indeterminado,,1974,0,82,0,440,13584,15559,transmision comunitaria,,,,no-data
 11/04/2020,38,22,Argentina,Buenos Aires,,2011,37,86,4,,,,transmision comunitaria,,,,buenos-aires
 11/04/2020,38,22,Argentina,CABA,,2057,46,89,3,,,,transmision comunitaria,,,,capital-federal
 11/04/2020,38,22,Argentina,Córdoba,,2089,32,89,0,,,,transmision comunitaria,,,27 de geriatrico,cordoba
@@ -395,3 +395,15 @@ No se informas mas las provincias de los fallecidos, tuvimos que encontrar la ub
 12/04/2020,39,23,Argentina,Santa Fe,,2204,3,95,0,,,,transmision comunitaria,,,,santa-fe
 12/04/2020,39,23,Argentina,Tierra del Fuego,,2208,4,95,0,,,,transmision comunitaria,,,,tierra-del-fuego
 12/04/2020,39,23,Argentina,Indeterminado,,2208,0,95,0,515,15924,18132,transmision comunitaria,,,,no-data
+13/04/2020,40,24,Argentina,Buenos Aires,,2237,29,96,1,,,,transmision comunitaria,,,,buenos-aires
+13/04/2020,40,24,Argentina,CABA,,2247,10,97,1,,,,transmision comunitaria,,,,capital-federal
+13/04/2020,40,24,Argentina,Chaco,,2250,3,97,0,,,,transmision comunitaria,,,,chaco
+13/04/2020,40,24,Argentina,Córdoba,,2254,4,98,1,,,,transmision comunitaria,,,,cordoba
+13/04/2020,40,24,Argentina,Corrientes,,2261,7,98,0,,,,transmision comunitaria,,,,corrientes
+13/04/2020,40,24,Argentina,La Rioja,,2264,3,98,0,,,,transmision comunitaria,,,,la-rioja
+13/04/2020,40,24,Argentina,Mendoza,,2266,2,98,0,,,,transmision comunitaria,,,,mendoza
+13/04/2020,40,24,Argentina,Neuquén,,2268,2,98,0,,,,transmision comunitaria,,,,neuquen
+13/04/2020,40,24,Argentina,Río Negro,,2271,3,98,0,,,,transmision comunitaria,,,,rio-negro
+13/04/2020,40,24,Argentina,Santa Fe,,2273,2,98,0,,,,transmision comunitaria,,,,santa-fe
+13/04/2020,40,24,Argentina,Tierra del Fuego,,2277,4,98,0,,,,transmision comunitaria,,,,tierra-del-fuego
+13/04/2020,40,24,Argentina,Indeterminado,,2277,0,98,0,,16416,15480,transmision comunitaria,,,,no-data
