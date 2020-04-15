@@ -1,7 +1,9 @@
 # Covid19arData
 COVID-19 Argentina data
 
-Es repositorio es creado por Sistemas Mapache con el objetivo de poder tener un repositorio de datos abiertos de la información oficial proveniente de los partes diarios sobre la situación de COVID-19 en Argentina.
+Repositorio creado por Sistemas Mapache con el objetivo de poder contar con datos abiertos de la información oficial proveniente de los partes diarios sobre la situación de COVID-19 en Argentina.
+
+También se suman datos con mayor segmentación territorial de fuentes provinciales.
 
 ## Data
 
