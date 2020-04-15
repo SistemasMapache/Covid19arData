@@ -32,7 +32,7 @@ yesterday = yesterday.strftime('%d/%m/%Y')
 def insert (prov,casos,fallecidos):
     print(prov+' start')
 
-    # constrain google api tope cada 10 segundos
+    # constraint google api tope cada 10 segundos
     time.sleep(1)
 
     # ultima posicion para insert
