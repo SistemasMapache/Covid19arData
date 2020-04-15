@@ -39,7 +39,7 @@ import delimited using "https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWb
 
 ### Descarga de tablas provinciales
 
-También estan disponibles los [Exportes provinciales](exports/) (por ahora fuente no oficial salvo Santa Fe).
+También estan disponibles los [Exports de data provincial](exports/) que contemplan mayor segmentación territorial por provincia.
 
 
 ## Fuentes 
