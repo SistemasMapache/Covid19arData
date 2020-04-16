@@ -103,6 +103,19 @@ El README fue inspirado en [*A template to make good README.md*](https://gist.gi
 
 Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Damián Castiñeiras [@damcasti](https://twitter.com/damcasti/) y Leandro Stryjek.
 
+## Quiénes son reutilizadores de estos datos
+
+* GCBA, Centro de Monitoreo de Incidente
+* La Nación
+* America24
+* Geoportal COVID19 (covid19argentina.com)
+* Asociación médicos Buenos Aires AMGBA (http://amgba.org.ar/amgba/covid19)
+* El gato y la caja https://beta.elgatoylacaja.ar/coronavirus
+* Juan Andres Fraire (CONICET) https://twitter.com/totinfraire
+* Emmanuel Larussi (CONICET) https://twitter.com/emmaiarussi
+* centros de datos municipales en Salta y Provincia de Buenos Aires
+* Juan Francisco González Valle López (INTI)
+
 ## Ayudan en esto
 
 Andres Snitcofsky [@rusosnith](https://twitter.com/rusosnith)
@@ -113,9 +126,11 @@ Nadia Perez Laureda
 
 Ezequiel Fernandez 
 
-Dirección de estadística y censos dependiente de la subsecretaría de sistemas de tecnología de la información de la provincia de Corrientes.
+Personal de la dirección de estadística y censos dependiente de la subsecretaría de sistemas de tecnología de la información de la provincia de Corrientes.
 
 Juan Cuaranta, información recoletada de Santa Fé.
+
+Gracias a la difusión de Nora Bär (La Nación), Jorge Aliaga (UBA-CONICET), Grandata, Jorge Montanari (CONICET), Andy Tow (datos electorales Página 12), Flor Coelho (La Nación Data).
 
 ## Sugerencias
 
