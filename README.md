@@ -105,6 +105,7 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 
 ## Quiénes son reutilizadores de estos datos
 
+* Repositorio no oficial de datos públicos abiertos de la República Argentina http://datar.info/
 * GCBA, Centro de Monitoreo de Incidente
 * La Nación
 * America24
