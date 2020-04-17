@@ -42,6 +42,8 @@ with open('parte.txt') as infile, open('provs.txt', 'w') as outfile:
             line = line.replace('*','')
             outfile.write(line)
 
+# TODO extrae fallecidos
+
 # genera df
 df = pd.read_csv (r'provs.txt', names=['provincia','casos_nuevos','casos_totales'])
 df['fallecidos'] = 0
