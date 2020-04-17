@@ -105,10 +105,10 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 
 ## Quiénes son reutilizadores de estos datos
 
-* Repositorio no oficial de datos públicos abiertos de la República Argentina http://datar.info/
+* Grupo de Investigación en Bases de Datos - UTN - FRCU
 * GCBA, Centro de Monitoreo de Incidente
 * La Nación
-* America24
+* America 24
 * Geoportal COVID19 (covid19argentina.com)
 * Asociación médicos Buenos Aires AMGBA (http://amgba.org.ar/amgba/covid19)
 * El gato y la caja https://beta.elgatoylacaja.ar/coronavirus
@@ -116,6 +116,7 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * Emmanuel Larussi (CONICET) https://twitter.com/emmaiarussi
 * centros de datos municipales en Salta y Provincia de Buenos Aires
 * Juan Francisco González Valle López (INTI)
+* Repositorio no oficial de datos públicos abiertos de la República Argentina http://datar.info/
 
 ## Quiénes ayudan en esto
 
