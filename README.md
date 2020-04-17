@@ -117,7 +117,7 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * centros de datos municipales en Salta y Provincia de Buenos Aires
 * Juan Francisco González Valle López (INTI)
 
-## Ayudan en esto
+## Quiénes ayudan en esto
 
 Andres Snitcofsky [@rusosnith](https://twitter.com/rusosnith)
 
@@ -130,6 +130,8 @@ Ezequiel Fernandez
 Personal de la dirección de estadística y censos dependiente de la subsecretaría de sistemas de tecnología de la información de la provincia de Corrientes.
 
 Juan Cuaranta, información recoletada de Santa Fé.
+
+Clari Cardozo Castro (Bioquímica Epidemióloga UNC)
 
 Gracias a la difusión de Nora Bär (La Nación), Jorge Aliaga (UBA-CONICET), Grandata, Jorge Montanari (CONICET), Andy Tow (datos electorales Página 12), Flor Coelho (La Nación Data).
 
