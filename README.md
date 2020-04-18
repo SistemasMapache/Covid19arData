@@ -1,7 +1,7 @@
 # Covid19arData
 COVID-19 Argentina data
 
-Repositorio creado por Sistemas Mapache con el objetivo de poder contar con datos abiertos de la información oficial proveniente de los partes diarios sobre la situación de COVID-19 en Argentina.
+Repositorio creado por Sistemas Mapache con el objetivo de poder contar con __datos abiertos__ de la información oficial proveniente de los partes diarios sobre la situación de COVID-19 en Argentina.
 
 También se suman datos con mayor segmentación territorial de fuentes provinciales.
 
@@ -11,9 +11,9 @@ Los datos historicos provienen de fuentes oficiales y no se mezclan con fuentes 
 
 Para poder entender la data [desde aquí puede acceder al Diccionario de datos](diccionariodatos.md).
 
-### Descarga de datos manual
+### Descarga y uso de datos
 
-Es posible [Descargar el CSV de datos históricos (link)](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0) como también es posible [acceder a la Hoja de cálculos (link)](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing)
+Es posible [__Descargar el CSV de datos históricos (link)__](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0) como también es posible [__acceder a la Hoja de cálculos (link)__](https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing)
 
 
 ### Usando Python
