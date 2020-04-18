@@ -37,12 +37,15 @@ with open('parte.txt') as infile, open('provs.txt', 'w') as outfile:
             copy = False
             continue
         elif copy:
-            line = line.replace(" | ", ",")
-            line = ','.join(line.rsplit(' ', 1))
-            line = line.replace('*','')
-            outfile.write(line)
+            if line != '':
+                line = line.replace(" | ", ",")
+                line = ','.join(line.rsplit(' ', 1))
+                line = line.replace('*','')
+                line = line.replace('Ciudad de Buenos Aires','CABA')
+                outfile.write(line)
 
-# TODO extrae fallecidos, join df casos - fallecidos 
+# TODO : extrae fallecidos, join df fallecidos where prov = prov
+# NLP NLTK
 
 # genera df
 df = pd.read_csv (r'provs.txt', names=['provincia','casos_nuevos','casos_totales'])
