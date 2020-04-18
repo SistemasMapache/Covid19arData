@@ -62,6 +62,7 @@ También estan disponibles los [Exports de data provincial](exports/) que contem
 * [Parte diario Mendoza](http://www.salud.mendoza.gov.ar)
 * [Parte diario Entre Rios](http://www.entrerios.gov.ar/msalud/#/ms-1/3)
 * [Partes diarios videos oficiales Casa Rosada](https://www.youtube.com/user/casarosada/videos)
+* [Partes diarios Cordoba](https://www.cba.gov.ar/informe-diario-de-casos-y-medidas/)
 
 
 ### Fuentes No Oficiales 
