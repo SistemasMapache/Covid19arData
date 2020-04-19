@@ -119,6 +119,8 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * centros de datos municipales en Salta y Provincia de Buenos Aires
 * Juan Francisco González Valle López (INTI)
 * Repositorio no oficial de datos públicos abiertos de la República Argentina http://datar.info/
+* Lavih Abraham (economista en Mirador de Actualidad del Trabajo y la Economía) https://twitter.com/lavih7
+
 
 ## Quiénes ayudan en esto
 
