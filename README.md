@@ -111,7 +111,7 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * GCBA, Centro de Monitoreo de Incidente
 * La Nación
 * America 24
-* Geoportal COVID19 (covid19argentina.com)
+* Geoportal COVID19 (https://covid19argentina.com/)
 * Asociación médicos Buenos Aires AMGBA (http://amgba.org.ar/amgba/covid19)
 * El gato y la caja https://beta.elgatoylacaja.ar/coronavirus
 * Juan Andres Fraire (CONICET) https://twitter.com/totinfraire
