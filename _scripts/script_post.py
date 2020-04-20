@@ -1,90 +1,64 @@
-# https://gspread.readthedocs.io/en/latest/
-import gspread
-import time
-from google.oauth2.service_account import Credentials
-from datetime import date, timedelta
+# needs pdftotext
+# pip install requests textract pandas bs4
 
-scope = ['https://spreadsheets.google.com/feeds',
-         'https://www.googleapis.com/auth/drive']
+import requests
+import textract
+import re
+import pandas as pd
+from bs4 import BeautifulSoup, SoupStrainer
 
-# keys https://gspread.readthedocs.io/en/latest/oauth2.html
-credentials = Credentials.from_service_account_file('keys.json', scopes=scope)
+# trae links
+links = []
+url = "https://www.argentina.gob.ar/coronavirus/informe-diario"
+page = requests.get(url)    
+data = page.text
+soup = BeautifulSoup(data, 'html.parser')
+for link in soup.findAll('a', attrs={'href': re.compile("^https://www.argentina.gob.ar/sites/default/files/")}):
+    links.append(link.get('href'))
 
-gc = gspread.authorize(credentials)
+# copia pdf
+url = links[0]
+myfile = requests.get(url, allow_redirects=True)
+open('parte.pdf', 'wb').write(myfile.content)
 
-# spreadsheet
-sh = gc.open_by_key("16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA")
+# extrae txt
+file = 'parte.pdf'
+text = textract.process(file, encoding='UTF-8',method='pdftotext')
+open('parte.txt', 'wb').write(text)
 
-# historico
-wks1 = sh.worksheet("historico")
-wks2 = sh.worksheet("contexto")
+# extrae casos
+with open('parte.txt') as infile, open('provs.txt', 'w') as outfile:
+    copy = False
+    for line in infile:
+        if line.strip() == "Detalle por provincia (Nº de confirmados | Nº de acumulados)*:":
+            copy = True
+            continue
+        elif line.strip() == "*Aquellos casos confirmados que no están notificados por residencia, fueron contabilizados":
+            copy = False
+            continue
+        elif copy:
+            if str(line) != '':
+                line = line.replace(" | ", ",")
+                line = ','.join(line.rsplit(' ', 1))
+                line = line.replace('*','')
+                line = line.replace('Ciudad de Buenos Aires','CABA')
+                outfile.write(str(line))
 
-# values provincias formatos
-provs1 = wks2.col_values(2)
-provs2 = wks2.col_values(3)
-  
-yesterday = date.today() - timedelta(days=1)
-today     = date.today().strftime('%d/%m/%Y')
-yesterday = yesterday.strftime('%d/%m/%Y')
+# TODO : extrae fallecidos, join df fallecidos where prov = prov # NLP NLTK
 
-fechacol1 = yesterday
+# genera df
+df = pd.read_csv (r'provs.txt', names=['provincia','casos_nuevos','casos_totales'])
+# add col
+df['fallecidos'] = 0
+dfcasos = df[df.casos_nuevos > 0]
+# dfcasos = df[df.astype(int)]
+# exporta csv
+dfcasos = dfcasos.dropna(subset=['casos_nuevos'])
+# decimals
+m=(dfcasos.dtypes=='float')
+dfcasos.loc[:,m]=dfcasos.loc[:,m].astype(int)
 
-#insert por provincia
-def insert (prov,casos,fallecidos):
-    print(prov+' strt')
-
-    # ultima posicion para insert
-    time.sleep(1)
-    allvalues = wks1.get_all_values()
-    lastrow = len(allvalues)
-
-    # array lastval
-    nextrow = lastrow+1
-    
-    # inserta predet
-    time.sleep(1)
-    wks1.update_cell(nextrow,  1, fechacol1)
-    time.sleep(1)
-    wks1.update_cell(nextrow,  2, '=DAYS(A408;FECHA(2020;3;4))')
-    time.sleep(1)
-    wks1.update_cell(nextrow,  3, '=DAYS(A408;FECHA(2020;3;20))')
-    time.sleep(1)
-    wks1.update_cell(nextrow,  4, 'Argentina')
-    
-    # tot_casosconf
-    time.sleep(1)
-    wks1.update_cell(nextrow,  7, '=G'+str(lastrow)+'+H'+str(nextrow))
-    
-    # nue_casosconf_diff
-    time.sleep(1)
-    wks1.update_cell(nextrow,  8, casos)
-    
-    # tot_fallecidos
-    time.sleep(1)
-    wks1.update_cell(nextrow,  9, '=I'+str(lastrow)+'+J'+str(nextrow))
-    
-    # nue_fallecidos_diff
-    time.sleep(1)
-    wks1.update_cell(nextrow, 10, fallecidos)
-
-    # formato string provs
-    prov1pos = provs1.index(prov)
-    # post
-    time.sleep(1)
-    wks1.update_cell(nextrow,  5, provs1[prov1pos])
-    time.sleep(1)
-    wks1.update_cell(nextrow, 18, provs2[prov1pos])
-    
-    print(prov+' nd')
-    #end
-
-# ejemplo
-# insert('Buenos Aires',3,1)
-# usar casos.csv. chequear fallecidos. correr.
-# ej insert('Buenos Aires', 30, 3 )
-
- ## 7 nuevas muertes. Todos hombres; tres de ellos, de 54, 79 y 92 años, residentes en la Provincia de Buenos Aires,
- # uno de 85 años residente en Mendoza; otros dos, de 86 y 95 años residentes en la CABA 
+dfcasos[['provincia','casos_nuevos','fallecidos']].to_csv (r'casos.csv', index = False, header=False)
 
 # extrae casos
 with open('casos.csv') as f:
@@ -93,4 +67,4 @@ with open('casos.csv') as f:
 for line in lines:
     prep = line.split(",")
     print(prep)
-    insert( prep[0] , int(prep[1]) , int(prep[2]) )
+    ins = 
