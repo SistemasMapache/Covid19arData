@@ -67,4 +67,4 @@ with open('casos.csv') as f:
 for line in lines:
     prep = line.split(",")
     print(prep)
-    ins = 
+#check ok
