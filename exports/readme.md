@@ -17,6 +17,7 @@ https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsE
 
 ### CSV Buenos Aires 
 Estos datos fueron hechos por Martín Duré y Eduardo Mejías para la Agencia Universitaria de Noticias y Opinión (Auno) de manera colaborativa con La Nación Data.
+
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=606357729
 
 ### CSV Rio Negro
