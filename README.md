@@ -134,6 +134,8 @@ Clari Cardozo Castro (Bioquímica Epidemióloga UNC)
 
 Gracias a la difusión de Nora Bär (La Nación), Jorge Aliaga (UBA-CONICET), Grandata, Jorge Montanari (CONICET), Andy Tow (datos electorales Página 12), Flor Coelho (La Nación Data).
 
+Todos los recolectores de datos no oficiales.
+
 ## Sugerencias
 
 Toda sugerencia es bienvenida.
