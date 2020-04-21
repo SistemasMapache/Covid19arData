@@ -87,12 +87,6 @@ También estan disponibles los [Exports de data provincial](exports/) que contem
 
 * serie de fallecidos https://public.flourish.studio/visualisation/1695917/embed
 
-## No olvides de citarnos :)
-
-Simplemente haciendo referencia al repositorio o si es por redes sociales usando nuestra cuenta de twitter 
-
-> @infompaache
-
 ## Licencia y readme
 
 El trabajo se publica bajo licencia  Creative Commons 4.0 Internacional (CC BY 4.0).
