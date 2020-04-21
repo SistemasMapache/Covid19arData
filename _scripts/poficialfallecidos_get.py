@@ -1,13 +1,3 @@
-# needs pdftotext
-# pip install requests textract pandas bs4
-
-import requests
-import textract
-import re
-import pandas as pd
-from bs4 import BeautifulSoup, SoupStrainer
-
-
 # extrae casos
 with open('parte.txt') as infile, open('fallecidos.txt', 'w') as outfile:
     copy = False
