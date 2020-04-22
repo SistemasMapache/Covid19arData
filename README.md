@@ -87,6 +87,9 @@ También estan disponibles los [Exports de data provincial](exports/) que contem
 
 * dataviz pública en flourish de serie de fallecidos https://public.flourish.studio/visualisation/1695917/embed
 
+* Export a CSV de parte oficial Santa Fe generado por Mariano Crosetti https://raw.githubusercontent.com/mariano22/argcovidapi/master/csvs/SantaFe_AllData.csv
+
+
 ## Licencia y readme
 
 El trabajo se publica bajo licencia  Creative Commons 4.0 Internacional (CC BY 4.0).
