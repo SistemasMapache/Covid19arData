@@ -30,21 +30,44 @@ open('parte.txt', 'wb').write(text)
 with open('parte.txt') as infile, open('provs.txt', 'w') as outfile:
     copy = False
     for line in infile:
-        if line.strip() == "Detalle por provincia (Nº de confirmados | Nº de acumulados)*:":
+        if line.strip().startswith('Detalle por provincia'):
             copy = True
             continue
-        elif line.strip() == "*Aquellos casos confirmados que no están notificados por residencia, fueron contabilizados":
+        elif line.strip().startswith('*Aquellos casos confirmados que no están notificados por residencia'):
             copy = False
             continue
         elif copy:
             if str(line) != '':
-                line = line.replace(" | ", ",")
+                line = line.replace(" / ", ",")
                 line = ','.join(line.rsplit(' ', 1))
                 line = line.replace('*','')
                 line = line.replace('Ciudad de Buenos Aires','CABA')
                 outfile.write(str(line))
 
 # TODO : extrae fallecidos, join df fallecidos where prov = prov # NLP NLTK
+# fallecidos
+
+# extrae casos
+with open('parte.txt') as infile, open('fallecidos.txt', 'w') as outfile:
+    copy = False
+    for line in infile:
+        if line.strip().startswith('Se registraron'):
+            copy = True
+            outfile.write(str(line))
+            continue
+        elif line.strip().startswith("Del total de casos"):
+            copy = False
+            continue
+        elif line.strip().startswith("A la fecha"):
+            copy = False
+            continue
+        elif line.strip().startswith("Detalle por provincia"):
+            copy = False
+            continue
+        elif copy:
+            if str(line) != '':
+                outfile.write(str(line))
+
 
 # genera df
 df = pd.read_csv (r'provs.txt', names=['provincia','casos_nuevos','casos_totales'])
