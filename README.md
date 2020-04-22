@@ -102,7 +102,7 @@ El README fue inspirado en [*A template to make good README.md*](https://gist.gi
 
 Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Damián Castiñeiras [@damcasti](https://twitter.com/damcasti/) y Leandro Stryjek.
 
-## Quiénes son reutilizadores de estos datos
+## Quiénes son reutilizadores de los datos recolectados
 
 * Grupo de Investigación en Bases de Datos - UTN - FRCU
 * GCBA, Centro de Monitoreo de Incidente
@@ -137,7 +137,7 @@ Clari Cardozo Castro (Bioquímica Epidemióloga UNC)
 
 Gracias a la difusión de Nora Bär (La Nación), Jorge Aliaga (UBA-CONICET), Grandata, Jorge Montanari (CONICET), Andy Tow (datos electorales Página 12), Flor Coelho (La Nación Data).
 
-Todos los recolectores de datos no oficiales.
+Todos los recolectores de datos no oficiales que hacen un super esfuerzo diariamente recolectando y generando data.
 
 ## Sugerencias
 
