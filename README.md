@@ -85,7 +85,7 @@ También estan disponibles los [Exports de data provincial](exports/) que contem
 
 * webgis https://covid19argentina.com/ (https://github.com/ezequiel9)
 
-* serie de fallecidos https://public.flourish.studio/visualisation/1695917/embed
+* dataviz pública en flourish de serie de fallecidos https://public.flourish.studio/visualisation/1695917/embed
 
 ## Licencia y readme
 
