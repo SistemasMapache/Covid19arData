@@ -45,9 +45,9 @@ def insert (prov,casos,fallecidos):
     time.sleep(1)
     wks1.update_cell(nextrow,  1, fechacol1)
     time.sleep(1)
-    wks1.update_cell(nextrow,  2, '=DAYS(A408;FECHA(2020;3;4))')
+    wks1.update_cell(nextrow,  2, '=DAYS(A'+str(nextrow)+';FECHA(2020;3;4))')
     time.sleep(1)
-    wks1.update_cell(nextrow,  3, '=DAYS(A408;FECHA(2020;3;20))')
+    wks1.update_cell(nextrow,  3, '=DAYS(A'+str(nextrow)+';FECHA(2020;3;20))')
     time.sleep(1)
     wks1.update_cell(nextrow,  4, 'Argentina')
     
