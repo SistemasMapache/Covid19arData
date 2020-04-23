@@ -39,10 +39,12 @@ with open('parte.txt') as infile, open('provs.txt', 'w') as outfile:
         elif copy:
             if str(line) != '':
                 line = line.replace(" / ", ",")
+                line = line.replace(" | ", ",")
                 line = ','.join(line.rsplit(' ', 1))
                 line = line.replace('*','')
                 line = line.replace('Ciudad de Buenos Aires','CABA')
-                outfile.write(str(line))
+                if len(line) > 10:
+                    outfile.write(str(line))
 
 # TODO : extrae fallecidos, join df fallecidos where prov = prov # NLP NLTK
 # fallecidos
