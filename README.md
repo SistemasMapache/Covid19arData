@@ -89,6 +89,10 @@ También estan disponibles los [Exports de data provincial](exports/) que contem
 
 * Export a CSV de parte oficial Santa Fe generado por Mariano Crosetti https://raw.githubusercontent.com/mariano22/argcovidapi/master/csvs/SantaFe_AllData.csv
 
+* Argentina and Santa Fe COVID API https://github.com/mariano22/argcovidapi 
+    Mariano Crosetti | Computer Sciences student @ Facebook | LinkedIn | Twitter | Github
+    Juan Hernandez Ruiz | Civil Engineer Student @ Facebook | LinkedIn | Twitter
+
 
 ## Licencia y readme
 
