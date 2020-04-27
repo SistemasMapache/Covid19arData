@@ -120,7 +120,7 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * Repositorio no oficial de datos públicos abiertos de la República Argentina http://datar.info/
 * Lavih Abraham (economista en Mirador de Actualidad del Trabajo y la Economía) https://twitter.com/lavih7
 * Ariel Aizemberg (profesor ITBA en Diplomatura en Big Data y Ciencia de Datos)
-* InfoBae con datos recolectados de Prov BsAs (Martín Duré y Eduardo Mejías para la Agencia Universitaria de Noticias y Opinión (Auno) de manera colaborativa con La Nación Data)
+* Rodigo Maidana
 
 ## Quiénes ayudan en esto
 
