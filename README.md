@@ -67,6 +67,8 @@ También estan disponibles los [Exports de data provincial](exports/) que contem
 
 ### Fuentes No Oficiales 
 
+* Rodrigo Maidana y reporte Provincia de Buenos Aires: https://es.scribd.com/document/458561269/Informe-COVID-19-Provincia-Bs-As
+
 * Datos CABA de mapa abierto de Eduardo Mejias: https://eduu1993.carto.com/builder/6b400d83-bfa3-4ce1-8f3d-b680d36ce103/embed?state=%7B%22map%22%3A%7B%22ne%22%3A%5B-34.88818391007526%2C-58.98422241210938%5D%2C%22sw%22%3A%5B-34.453350878522286%2C-57.93502807617188%5D%2C%22center%22%3A%5B-34.671052719358904%2C-58.45962524414063%5D%2C%22zoom%22%3A11%7D%7D
 
 * Datos Rio Negro: https://public.flourish.studio/visualisation/1908120/ (https://twitter.com/ClariCardozoCas Clari Cardozo )
