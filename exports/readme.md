@@ -15,11 +15,6 @@ https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsE
 ### CSV covid19argentina_datasource
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=488163612
 
-### CSV Buenos Aires 
-Estos datos fueron hechos por Martín Duré y Eduardo Mejías para la Agencia Universitaria de Noticias y Opinión (Auno) de manera colaborativa con La Nación Data.
-
-https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=606357729
-
 ### CSV Rio Negro
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=971636305
 
@@ -34,3 +29,6 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vRXScnmT7SXnZOrT3wYE-yyJnaNLbH7U
 
 ### XLS total documento:
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=xlsx&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA
+
+### GEOData como Tab Separated Values
+https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=tsv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=617143726
