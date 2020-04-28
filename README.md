@@ -49,7 +49,7 @@ También estan disponibles los [Exports de data provincial](exports/) que contem
 ### Fuentes Oficiales
 
 * [Parte diario Nacional](https://www.argentina.gob.ar/coronavirus/informe-diario)
-* [Parte diario Santa Fe](https://www.santafe.gob.ar/index.php/web/content/view/full/234420/)
+* [Parte diario Santa Fe](https://www.santafe.gob.ar/index.php/web/content/view/full/234420/) y [datos abiertos Santa Fe](https://www.santafe.gob.ar/ms/covid19/datosabiertos/)
 * [Parte diario BsAs](https://www.gba.gob.ar/saludprovincia/boletin_epidemiologico)
 * [Parte diario GCBA](https://www.buenosaires.gob.ar/salud/noticias/actualizacion-de-los-casos-coronavirus-en-la-ciudad-buenos-aires)
 * [Parte diario Rio Negro](https://www.rionegro.gov.ar/index.php?catID=17)
