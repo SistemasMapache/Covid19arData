@@ -93,6 +93,7 @@ También estan disponibles los [Exports de data provincial](exports/) que contem
     Mariano Crosetti | Computer Sciences student @ Facebook | LinkedIn | Twitter | Github
     Juan Hernandez Ruiz | Civil Engineer Student @ Facebook | LinkedIn | Twitter
 
+* Avance COVID Juan Cuaranta Santa Fe https://docs.google.com/spreadsheets/d/1acPZ1FBtifqgZta4WeiR5aZrV3Q0g4HANPA7Edu0dos
 
 ## Licencia y readme
 
