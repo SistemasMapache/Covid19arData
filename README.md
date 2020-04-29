@@ -123,6 +123,8 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * Lavih Abraham (economista en Mirador de Actualidad del Trabajo y la Economía) https://twitter.com/lavih7
 * Ariel Aizemberg (profesor ITBA en Diplomatura en Big Data y Ciencia de Datos)
 * Rodrigo Maidana @Rodri_LP
+* Andrés Babino,  Postdoctoral Associete at The Rockefeller University https://github.com/ababino
+
 
 ## Quiénes ayudan en esto
 
