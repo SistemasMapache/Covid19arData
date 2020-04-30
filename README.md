@@ -59,10 +59,11 @@ También están disponibles los [Exports de data provincial](exports/) que conte
 * [Parte diario Neuquen](https://www.neuqueninforma.gob.ar/tag/parte/)
 * [Parte diario Chaco](http://comunicacion.chaco.gov.ar/lista-noticias/328)
 * [Parte diario Tierra del fuego](https://www.facebook.com/saludtdf)
-* [Parte diario Mendoza](http://www.salud.mendoza.gov.ar)
+* [Parte diario Mendoza](http://www.prensa.mendoza.gov.ar/salud/)
 * [Parte diario Entre Rios](http://www.entrerios.gov.ar/msalud/#/ms-1/3)
 * [Partes diarios videos oficiales Casa Rosada](https://www.youtube.com/user/casarosada/videos)
 * [Partes diarios Cordoba](https://www.cba.gov.ar/informe-diario-de-casos-y-medidas/)
+* [Parte Santa Cruz](http://saludsantacruz.gob.ar/portal/coronavirus/)
 
 
 ### Fuentes No Oficiales 
