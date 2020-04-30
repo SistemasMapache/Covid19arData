@@ -1,4 +1,5 @@
 # Covid19arData
+
 COVID-19 Argentina data
 
 Repositorio creado por Sistemas Mapache con el objetivo de poder contar con __datos abiertos__ de la información oficial proveniente de los partes diarios sobre la situación de COVID-19 en Argentina.
@@ -40,7 +41,7 @@ import delimited using "https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWb
 
 ### Descarga de tablas provinciales
 
-También estan disponibles los [Exports de data provincial](exports/) que contemplan mayor segmentación territorial por provincia.
+También están disponibles los [Exports de data provincial](exports/) que contemplan mayor segmentación territorial por provincia.
 
 
 ## Fuentes 
@@ -94,6 +95,7 @@ También estan disponibles los [Exports de data provincial](exports/) que contem
 
 * Avance COVID Juan Quaranta Santa Fe https://docs.google.com/spreadsheets/d/1acPZ1FBtifqgZta4WeiR5aZrV3Q0g4HANPA7Edu0dos
 
+
 ## Licencia y readme
 
 El trabajo se publica bajo licencia  Creative Commons 4.0 Internacional (CC BY 4.0).
@@ -101,10 +103,13 @@ Ver [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mayo
 
 El README fue inspirado en [*A template to make good README.md*](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) y en [*el readme del dashboard BID*](https://github.com/EL-BID/IDB-IDB-Invest-Coronavirus-Impact-Dashboard)
 
+
 ## Quienes somos
+
 [__Sistemas Mapache__](https://smapache.com.ar/es/) es una empresa de tecnología especializada en brindar soluciones geoespaciales web a través de herramientas FOSS.
 
 Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Damián Castiñeiras [@damcasti](https://twitter.com/damcasti/) y Leandro Stryjek.
+
 
 ## Quiénes son reutilizadores de los datos recolectados
 
@@ -126,7 +131,19 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * Andrés Babino,  Postdoctoral Associete at The Rockefeller University https://github.com/ababino
 
 
-## Quiénes ayudan en esto
+## Quiénes ayudan con la recolección y con la difusión
+
+Diario Pagina 12: https://www.pagina12.com.ar/262731-coronavirus-ciudad-por-ciudad-el-mapa-interactivo-de-argenti
+
+Diario El Litoral
+
+Infobae
+
+Juan Cuaranta, información recoletada de Santa Fé.
+
+Clari Cardozo Castro (Bioquímica Epidemióloga UNC) @ClariCardozoCas
+
+Rodrigo Maidana @Rodri_LP
 
 Andres Snitcofsky [@rusosnith](https://twitter.com/rusosnith)
 
@@ -138,16 +155,13 @@ Ezequiel Fernandez
 
 Personal de la dirección de estadística y censos dependiente de la subsecretaría de sistemas de tecnología de la información de la provincia de Corrientes.
 
-Juan Cuaranta, información recoletada de Santa Fé.
-
-Clari Cardozo Castro (Bioquímica Epidemióloga UNC)
-
 Gracias a la difusión de Nora Bär (La Nación), Jorge Aliaga (UBA-CONICET), Grandata, Jorge Montanari (CONICET), Andy Tow (datos electorales Página 12), Flor Coelho (La Nación Data).
 
-Todos los recolectores de datos no oficiales que hacen un super esfuerzo diariamente recolectando y generando data.
+Todos los recolectores de datos no oficiales que hacen un super esfuerzo diariamente recolectando y generando data para todos los proyectos.
+
 
 ## Sugerencias
 
-Toda sugerencia es bienvenida.
+Toda sugerencia es bienvenida!
 
 Tenés nuevas fuentes de partes diarios provinciales? Escribanme a [@vlasvlasvlas](https://twitter.com/vlasvlasvlas)
