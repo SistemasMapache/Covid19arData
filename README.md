@@ -96,6 +96,8 @@ También están disponibles los [Exports de data provincial](exports/) que conte
 
 * Avance COVID Juan Quaranta Santa Fe https://docs.google.com/spreadsheets/d/1acPZ1FBtifqgZta4WeiR5aZrV3Q0g4HANPA7Edu0dos
 
+* Casos Cordoba https://public.flourish.studio/visualisation/1692366/embed#amp=1
+
 
 ## Licencia y readme
 
