@@ -98,6 +98,10 @@ También están disponibles los [Exports de data provincial](exports/) que conte
 
 * Casos Cordoba https://public.flourish.studio/visualisation/1692366/embed#amp=1
 
+* Casos Neuquen y Rio Negro https://docs.google.com/spreadsheets/d/1t02E2YcKFeAt3gw09qNLJmblTyCf7mzbQkKYQulbexY/edit#gid=0
+
+* Avance COVID Localidades Santafecinas y Argentina https://docs.google.com/spreadsheets/d/1acPZ1FBtifqgZta4WeiR5aZrV3Q0g4HANPA7Edu0dos/edit#gid=0
+
 
 ## Licencia y readme
 
