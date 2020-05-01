@@ -156,6 +156,8 @@ Nadia Perez Laureda
 
 Ezequiel Fernandez 
 
+Soledad Retamar
+
 Personal de la dirección de estadística y censos dependiente de la subsecretaría de sistemas de tecnología de la información de la provincia de Corrientes.
 
 Gracias a la difusión de Nora Bär (La Nación), Jorge Aliaga (UBA-CONICET), Grandata, Jorge Montanari (CONICET), Andy Tow (datos electorales Página 12), Flor Coelho (La Nación Data).
