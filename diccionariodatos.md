@@ -7,7 +7,7 @@
 | osm_admin_level_4     | nombre administrativo en OpenStreetMap escala provincia                                     |
 | osm_admin_level_8     | nombre administrativo en OpenStreetMap escala ciudad                                      |
 | tot_casosconf          | total de casos de infectados confirmados. Columna que sumariza fila a fila el total de casos confirmados                                    |
-| nue_casosconf_diff           | nuevos casos infectados del dia                                           |
+| nue_casosconf_diff           | nuevos casos infectados del dia del lugar especificado en las columnas osm admin level                                          |
 | tot_fallecidos             | total de fallecidos. Columna que sumariza fila a fila el total de fallecidos                                             |
 | nue_fallecidos_diff                | nuevos casos fallecidos del dia                                                      |
 | tot_recuperados                  | total acumulado de casos recuperados.                                                       |
