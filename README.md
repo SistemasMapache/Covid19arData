@@ -102,6 +102,7 @@ También están disponibles los [Exports de data provincial](exports/) que conte
 
 * Avance COVID Localidades Santafecinas y Argentina https://docs.google.com/spreadsheets/d/1acPZ1FBtifqgZta4WeiR5aZrV3Q0g4HANPA7Edu0dos/edit#gid=0
 
+* Analisis COVID Grupo de Investigación en Bases de Datos - UTN - FRCU  https://gibd.github.io/covid/
 
 ## Licencia y readme
 
