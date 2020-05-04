@@ -137,7 +137,6 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * Ariel Aizemberg (profesor ITBA en Diplomatura en Big Data y Ciencia de Datos)
 * Rodrigo Maidana @Rodri_LP
 * Andrés Babino,  Postdoctoral Associete at The Rockefeller University https://github.com/ababino
-* Lavih Abraham Economista en @MatEconomia,  @lavih7
 * Sergio Villordo PhD in Biological Chemistry and BioinformaticsUniversidad de Buenos Aires (UBA), @Ser08
 
 ## Quiénes ayudan con la recolección y con la difusión
