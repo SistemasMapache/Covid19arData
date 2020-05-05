@@ -9,7 +9,8 @@ from bs4 import BeautifulSoup, SoupStrainer
 
 # trae links
 links = []
-url = "https://www.argentina.gob.ar/coronavirus/informe-diario"
+mes = "mayo"
+url = "https://www.argentina.gob.ar/coronavirus/informe-diario/"+mes+"2020"
 page = requests.get(url)    
 data = page.text
 soup = BeautifulSoup(data, 'html.parser')
@@ -40,6 +41,7 @@ with open('parte.txt') as infile, open('provs.txt', 'w') as outfile:
             if str(line) != '':
                 line = line.replace(" / ", ",")
                 line = line.replace(" | ", ",")
+                line = line.replace("- ", "")
                 line = ','.join(line.rsplit(' ', 1))
                 line = line.replace('*','')
                 line = line.replace('Ciudad de Buenos Aires','CABA')
