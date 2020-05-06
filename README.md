@@ -138,8 +138,9 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * Rodrigo Maidana @Rodri_LP
 * Andrés Babino,  Postdoctoral Associete at The Rockefeller University https://github.com/ababino
 * Sergio Villordo PhD in Biological Chemistry and Bioinformatics Universidad de Buenos Aires (UBA), @Ser08
+* Tim Riffe COVID-19 cases and deaths by age and sex https://github.com/timriffe/covid_age
 
-## Quiénes ayudan con la recolección y con la difusión
+## Quiénes ayudan con corrección, recolección y difusión
 
 Diario Pagina 12: https://www.pagina12.com.ar/262731-coronavirus-ciudad-por-ciudad-el-mapa-interactivo-de-argenti
 
@@ -162,6 +163,8 @@ Nadia Perez Laureda
 Ezequiel Fernandez 
 
 Soledad Retamar
+
+[@ivanchowilliams](https://twitter.com/ivanchowilliams)
 
 Personal de la dirección de estadística y censos dependiente de la subsecretaría de sistemas de tecnología de la información de la provincia de Corrientes.
 
