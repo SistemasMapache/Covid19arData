@@ -1,3 +1,7 @@
+El presente diccionario de datos responde a los datos de la primera hoja "Histórico" del spreadsheet
+ https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing
+
+
 | Column Name         | Description                                                        |
 |----------------------|-------------------------------------------------------------------|
 | fecha                | fecha a la que corresponde los datos                              |
