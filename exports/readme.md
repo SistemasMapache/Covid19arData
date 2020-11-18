@@ -3,9 +3,9 @@
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/edit?usp=sharing.
 
 ## Descargas
-Las descargas ahora estan en formato link al spreadsheet.
+Las descargas ahora están en formato link al spreadsheet.
 
-### CSV Historico
+### CSV Histórico
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0
 
 
@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsE
 ### CSV Rio Negro
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=971636305
 
-### CSV Ciudad Autonoma de Buenos Aires
+### CSV Ciudad Autónoma de Buenos Aires
 https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=1718330171
 
 ### CSV Santa Fe
