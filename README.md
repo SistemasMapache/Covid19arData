@@ -8,7 +8,7 @@ También se suman datos con mayor segmentación territorial de fuentes provincia
 
 ## Data
 
-Los datos historicos provienen de fuentes oficiales y no se mezclan con fuentes no oficiales.
+Los datos históricos provienen de fuentes oficiales y no se mezclan con fuentes no oficiales.
 
 ### Descarga y uso de datos
 
@@ -56,13 +56,13 @@ También están disponibles los [Exports de data provincial](exports/) que conte
 * [Parte diario Misiones](https://coronavirus.misionesonline.net/)
 * [Parte diario San Luis](http://www.sanluis.gov.ar/coronavirus/)
 * [Parte diario Corrientes](https://www.corrientes.gob.ar/home/salud/categorias)
-* [Parte diario Neuquen](https://www.neuqueninforma.gob.ar/tag/parte/)
+* [Parte diario Neuquén](https://www.neuqueninforma.gob.ar/tag/parte/)
 * [Parte diario Chaco](http://comunicacion.chaco.gov.ar/lista-noticias/328)
-* [Parte diario Tierra del fuego](https://www.facebook.com/saludtdf)
+* [Parte diario Tierra del Fuego](https://www.facebook.com/saludtdf)
 * [Parte diario Mendoza](http://www.prensa.mendoza.gov.ar/salud/)
-* [Parte diario Entre Rios](http://www.entrerios.gov.ar/msalud/#/ms-1/3)
+* [Parte diario Entre Ríos](http://www.entrerios.gov.ar/msalud/#/ms-1/3)
 * [Partes diarios videos oficiales Casa Rosada](https://www.youtube.com/user/casarosada/videos)
-* [Partes diarios Cordoba](https://www.cba.gov.ar/informe-diario-de-casos-y-medidas/)
+* [Partes diarios Córdoba](https://www.cba.gov.ar/informe-diario-de-casos-y-medidas/)
 * [Parte Santa Cruz](http://saludsantacruz.gob.ar/portal/coronavirus/)
 
 
@@ -74,7 +74,7 @@ También están disponibles los [Exports de data provincial](exports/) que conte
 
 * Datos Rio Negro: https://public.flourish.studio/visualisation/1908120/ (https://twitter.com/ClariCardozoCas Clari Cardozo )
 
-* Datos Cordoba (difusión): https://www.lavoz.com.ar/temas/coronavirus-en-cordoba, https://cdn.lavoz.com.ar/sites/default/files/file_attachments/nota_periodistica/PARA_PRENSA_-_29.03.2020_Informe_EPIDEMIOLOGICO_casos_confirmados.pdf
+* Datos Córdoba (difusión): https://www.lavoz.com.ar/temas/coronavirus-en-cordoba, https://cdn.lavoz.com.ar/sites/default/files/file_attachments/nota_periodistica/PARA_PRENSA_-_29.03.2020_Informe_EPIDEMIOLOGICO_casos_confirmados.pdf
 
 * Wiki Pandemia de enfermedad por coronavirus 2020 Argentina: https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Argentina
 
@@ -96,13 +96,13 @@ También están disponibles los [Exports de data provincial](exports/) que conte
 
 * Avance COVID Juan Quaranta Santa Fe https://docs.google.com/spreadsheets/d/1acPZ1FBtifqgZta4WeiR5aZrV3Q0g4HANPA7Edu0dos
 
-* Casos Cordoba https://public.flourish.studio/visualisation/1692366/embed#amp=1
+* Casos Córdoba https://public.flourish.studio/visualisation/1692366/embed#amp=1
 
-* Casos Neuquen y Rio Negro https://docs.google.com/spreadsheets/d/1t02E2YcKFeAt3gw09qNLJmblTyCf7mzbQkKYQulbexY/edit#gid=0
+* Casos Neuquén y Rio Negro https://docs.google.com/spreadsheets/d/1t02E2YcKFeAt3gw09qNLJmblTyCf7mzbQkKYQulbexY/edit#gid=0
 
 * Avance COVID Localidades Santafecinas y Argentina https://docs.google.com/spreadsheets/d/1acPZ1FBtifqgZta4WeiR5aZrV3Q0g4HANPA7Edu0dos/edit#gid=0
 
-* Analisis COVID Grupo de Investigación en Bases de Datos - UTN - FRCU  https://github.com/GIBD/covid/tree/master/data
+* Análisis COVID Grupo de Investigación en Bases de Datos - UTN - FRCU  https://github.com/GIBD/covid/tree/master/data
 
 ## Licencia y readme
 
@@ -124,7 +124,7 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * Grupo de Investigación en Bases de Datos - UTN - FRCU
 * GCBA, Centro de Monitoreo de Incidente
 * La Nación
-* America 24
+* América 24
 * Geoportal COVID19 (https://covid19argentina.com/)
 * Asociación médicos Buenos Aires AMGBA (http://amgba.org.ar/amgba/covid19)
 * El gato y la caja https://beta.elgatoylacaja.ar/coronavirus
@@ -136,13 +136,13 @@ Somos Vladimiro Bellini [@vlasvlasvlas](https://twitter.com/vlasvlasvlas), Dami�
 * Lavih Abraham (economista en Mirador de Actualidad del Trabajo y la Economía) https://twitter.com/lavih7
 * Ariel Aizemberg (profesor ITBA en Diplomatura en Big Data y Ciencia de Datos)
 * Rodrigo Maidana @Rodri_LP
-* Andrés Babino,  Postdoctoral Associete at The Rockefeller University https://github.com/ababino
+* Andrés Babino,  Postdoctoral Associate at The Rockefeller University https://github.com/ababino
 * Sergio Villordo PhD in Biological Chemistry and Bioinformatics Universidad de Buenos Aires (UBA), @Ser08
 * Tim Riffe COVID-19 cases and deaths by age and sex https://github.com/timriffe/covid_age
 
 ## Quiénes ayudan con corrección, recolección y difusión
 
-Diario Pagina 12: https://www.pagina12.com.ar/262731-coronavirus-ciudad-por-ciudad-el-mapa-interactivo-de-argenti
+Diario Página 12: https://www.pagina12.com.ar/262731-coronavirus-ciudad-por-ciudad-el-mapa-interactivo-de-argenti
 
 Diario El Litoral
 
@@ -154,13 +154,13 @@ Clari Cardozo Castro (Bioquímica Epidemióloga UNC) @ClariCardozoCas
 
 Rodrigo Maidana @Rodri_LP
 
-Andres Snitcofsky [@rusosnith](https://twitter.com/rusosnith)
+Andrés Snitcofsky [@rusosnith](https://twitter.com/rusosnith)
 
 Telegram channel Usuaries de datos Argentina @daterxsargentina
 
 Nadia Perez Laureda
 
-Ezequiel Fernandez 
+Ezequiel Fernández 
 
 Soledad Retamar
 
@@ -177,4 +177,4 @@ Todos los recolectores de datos no oficiales que hacen un super esfuerzo diariam
 
 Toda sugerencia es bienvenida!
 
-Tenés nuevas fuentes de partes diarios provinciales? Escribanme a [@vlasvlasvlas](https://twitter.com/vlasvlasvlas)
+Tenés nuevas fuentes de partes diarios provinciales? Escríbanme a [@vlasvlasvlas](https://twitter.com/vlasvlasvlas)
