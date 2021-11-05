@@ -84,7 +84,7 @@ También están disponibles los [Exports de data provincial](exports/) que conte
 
 * Soporte de datos al proyecto de mapeo de OpenStreetMap: Argentina/COVID-19 https://github.com/gabriel-de-luca/covid-19 
 
-* webgis https://covid19argentina.com/ (https://github.com/ezequiel9)
+* webgis (https://github.com/ezequiel9)
 
 * dataviz pública en flourish de serie de fallecidos https://public.flourish.studio/visualisation/1695917/embed
 
@@ -107,7 +107,7 @@ También están disponibles los [Exports de data provincial](exports/) que conte
 ## Licencia y readme
 
 El trabajo se publica bajo licencia  Creative Commons 4.0 Internacional (CC BY 4.0).
-Ver [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mayor detalles.
+Ver [Licencia CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mayor detalle.
 
 El README fue inspirado en [*A template to make good README.md*](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) y en [*el readme del dashboard BID*](https://github.com/EL-BID/IDB-IDB-Invest-Coronavirus-Impact-Dashboard)
 
