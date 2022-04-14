@@ -1,3 +1,8 @@
+
+** El proyecto fue discontinuado en el momento que Nación empezó a publicar los datos centralizados. Cualquier info comunicarse con @vlasvlasvlas**
+Gracias a todos por ayudar en la construcción del dataset!
+
+
 # Covid19arData
 
 COVID-19 Argentina data
